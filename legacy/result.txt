@@ -1,0 +1,1446 @@
+BBC Politics
+John Worboys: Minister considering judicial review
+The justice secretary may act over the Parole Board's decision to release sex attacker John Worboys.
+==========
+['sex attacker john worboys', 'parole board', 'judicial review', 'justice secretary', 'minister', 'john worboys', 'decision']
+++++++++++
+['john worboys', 'judicial review', 'minister']
+['parole board', 'justice secretary', 'decision']
+==========
+
+BBC Politics
+Labour steps up harassment investigation into MPs Lewis and Hopkins
+Party refers sexual harassment allegations against Kelvin Hopkins and Ivan Lewis to disciplinary panel.
+==========
+['disciplinary panel', 'labour', 'party refers sexual harassment allegation', 'mp lewis', 'kelvin hopkins', 'harassment investigation', 'hopkins', 'ivan lewis']
+++++++++++
+['mps lewis', 'harassment investigation', 'labour steps', 'hopkins']
+['disciplinary panel', 'kelvin hopkins', 'ivan lewis']
+==========
+
+BBC Politics
+Nigel Farage 'has £35k pay docked by EU over misspending claim'
+Former UKIP leader has had his salary cut after claims he misspent EU funds, the BBC understands.
+==========
+['former  uki leader', 'salary cut', 'claim', 'eu fund', 'nigel farage', 'eu', 'pay', ' bbc understands']
+++++++++++
+['£35k pay docked', 'misspending claim', 'nigel farage']
+['misspent eu funds', 'bbc understands', 'salary cut', 'ukip leader', 'claims']
+==========
+
+BBC Politics
+Corbyn reappoints Clive Lewis to Labour front bench
+The Norwich South MP becomes a shadow Treasury minister after quitting over the Brexit bill.
+==========
+['brexit bill', 'norwich south mp', 'corbyn reappoints clive lewis', 'shadow treasury minister', 'labour front bench']
+++++++++++
+['labour front bench']
+['norwich south mp', 'shadow treasury minister', 'brexit bill', 'quitting']
+==========
+
+BBC Politics
+Davidson 'frustrated' by Brexit bill delay
+The Scottish Tory leader says she will be meeting the prime minister on Monday to discuss changes to the legislation.
+==========
+['davidson', 'legislation', 'scottish tory leader', 'prime minister', 'change', 'monday', 'brexit bill delay']
+++++++++++
+['brexit bill delay', 'davidson', 'frustrated']
+['scottish tory leader', 'prime minister', 'legislation', 'discuss', 'meeting', 'monday']
+==========
+
+BBC Politics
+Pound hits highest level since Brexit vote
+The pound passes $1.37 on a report that Spain and the Netherlands want a good Brexit deal for the UK.
+==========
+['good brexit deal', 'report', 'brexit vote', 'netherlands', 'spain', ' uk.', 'pound', 'level']
+++++++++++
+['brexit vote']
+['good brexit deal', 'pound passes $1', 'spain', 'report', 'netherlands']
+==========
+
+BBC Politics
+I'm a Celebrity: Kezia Dugdale paid £70,000 for appearance
+The former Scottish Labour leader received the money for her recent appearance on I'm a Celebrity.
+==========
+[' a c elebrity', 'money', 'former scottish labour leader', 'recent appearance', 'appearance', 'kezia dugdale']
+++++++++++
+['appearance', 'celebrity']
+['recent appearance', 'money', 'celebrity']
+==========
+
+BBC Politics
+Nigel Farage misspoke on second referendum, suggests UKIP leader
+UKIP is against a second EU referendum, says the party's leader Henry Bolton.
+==========
+[' uki leader', 'second eu referendum', 'nigel farage', 'second referendum', 'party', 'leader henry bolton', 'ukip']
+++++++++++
+['nigel farage misspoke', 'suggests ukip leader', 'referendum']
+['leader henry bolton', 'eu referendum', 'party']
+==========
+
+BBC Politics
+Labour's Chris Williamson denies being sacked over council tax call
+Chris Williamson hits back at claims he was fired by Jeremy Corbyn over a call to increase council tax.
+==========
+['labour', 'call', 'chris williamson', 'claim', 'hris williamson', 'jeremy corbyn', 'council tax', 'council tax call']
+++++++++++
+['chris williamson denies', 'council tax call', 'labour', 'sacked']
+['increase council tax', 'jeremy corbyn', 'fired', 'claims']
+==========
+
+BBC Politics
+Donald Trump cancels February visit to UK
+He blames Obama for getting a "bad deal" on the new US embassy in London, which he was due to open.
+==========
+[' a " bad deal', 'london', 'obama', 'new u embassy', 'donald trump cancel february visit']
+++++++++++
+[]
+['bad deal', 'blames obama', 'london', 'embassy']
+==========
+
+BBC Politics
+HMRC 'hit by Brexit and Paradise Papers'
+MPs are "far from confident" HM Revenue and Customs can cope with leaked tax avoidance allegations.
+==========
+['hit', 'confident " hm revenue', 'custom', 'hmrc', 'leaked tax avoidance allegation', 'paradise paper', 'mp', 'brexit']
+++++++++++
+['paradise papers', 'brexit']
+['hm revenue', 'customs', 'confident']
+==========
+
+BBC Politics
+Key UK contractor Carillion denies rescue plan in doubt
+Construction giant Carillion dismisses claims lenders rejected a rescue plan and says talks continue.
+==========
+['doubt', 'key uk contractor carillion', 'talk', 'construction giant carillion', 'rescue plan', 'claim lender']
+++++++++++
+['doubt']
+['talks continue', 'rescue plan']
+==========
+
+BBC Politics
+Theresa May defends 'long-term' plastic waste plan
+Campaigners say "emergency" action is needed now as the PM unveils a 25-year plastics crackdown.
+==========
+['pm', 'theresa may', 'emergency action', 'plastic waste plan', 'campaigner', '25-year plastic crackdown']
+++++++++++
+['plastic waste plan', 'theresa', 'defends']
+['year plastics crackdown', 'pm unveils', 'campaigners', 'action', 'needed', 'emergency']
+==========
+
+BBC Politics
+Patients 'dying in hospital corridors'
+Doctors write to the PM warning care is being compromised by 'intolerable' conditions this winter.
+==========
+['condition', 'doctor', 'patient', 'pm warning care', 'winter', 'hospital corridor']
+++++++++++
+['hospital corridors', 'patients', 'dying']
+['pm warning care', 'doctors write', 'conditions', 'intolerable', 'winter', 'compromised']
+==========
+
+BBC Politics
+Jo Johnson: PM's ex-aide 'so wrong' about Justine Greening
+Government minister Jo Johnson rejects Nick Timothy's criticism of the ex-education secretary.
+==========
+['nick timothy', 'government minister jo johnson', 'ex-education secretary', 'criticism', 'jo johnson : pm', 'justine']
+++++++++++
+['jo johnson', 'justine greening', 'wrong']
+['education secretary', 'criticism']
+==========
+
+BBC Politics
+It takes two to tango over Brexit, Hammond tells EU
+The EU must end its "relative silence" about what post-Brexit relationship it wants, chancellor says.
+==========
+['relative silence', 'eu', 'hammond', 'chancellor', 'post-brexit relationship', 'brexit']
+++++++++++
+['hammond tells eu', 'takes', 'tango', 'brexit']
+['relative silence', 'brexit relationship', 'chancellor']
+==========
+
+BBC Politics
+Lords vote for second Leveson probe into press conduct
+The government is defeated over calls for a further inquiry into unlawful action by media organisations.
+==========
+['call', 'inquiry', 'lord vote', 'government', 'medium organisation', 'second leveson probe', 'press conduct', 'unlawful action']
+++++++++++
+['press conduct', 'leveson probe', 'lords vote']
+['media organisations', 'unlawful action', 'inquiry', 'government', 'calls', 'defeated']
+==========
+
+BBC Politics
+Overseas students 'add £20bn' to UK economy
+A think tank says cities such as Sheffield and Nottingham gain most from international students.
+==========
+['uk economy', 'international student', 'sheffield', 'overseas student', 'nottingham', 'think tank', 'city']
+++++++++++
+['overseas students', 'add £20bn', 'uk economy']
+['international students', 'nottingham gain', 'sheffield', 'cities']
+==========
+
+BBC Politics
+Sadiq Khan warns of Brexit 'lost decade'
+The London mayor says a hard Brexit could cost the UK 500,000 jobs and £50bn in lost investment.
+==========
+['investment', 'job', 'sadiq khan', 'london mayor', 'brexit', 'uk', 'hard brexit', 'decade']
+++++++++++
+['sadiq khan warns', 'lost decade', 'brexit']
+['london mayor', 'lost investment', 'hard brexit', '£50bn', '000 jobs']
+==========
+
+BBC Politics
+McVey urged to scrap tax credit 'rape clause'
+Kezia Dugdale says the new work and pension secretary should cut the clause from child tax credits.
+==========
+['tax credit', 'child tax credit', 'mcve', 'pension secretary', 'rape clause', 'kezia dugdale', 'clause', 'new work']
+++++++++++
+['scrap tax credit', 'rape clause', 'mcvey urged']
+['child tax credits', 'pension secretary', 'kezia dugdale', 'clause']
+==========
+
+BBC Politics
+Nazanin Zaghari-Ratcliffe: Boris Johnson to raise case at summit
+The foreign secretary will discuss Nazanin Zaghari-Ratcliffe with his Iranian counterpart at a summit.
+==========
+['iranian counterpart', 'summit', 'case', 'foreign secretary', 'nazanin zaghari-ratcliffe', 'boris johnson']
+++++++++++
+['raise case', 'nazanin zaghari', 'boris johnson', 'ratcliffe', 'summit']
+['discuss nazanin zaghari', 'foreign secretary', 'iranian counterpart', 'ratcliffe', 'summit']
+==========
+
+BBC Politics
+Tim Farron: I regret 'gay sex no sin' statement
+The ex-Lib Dem leader says he handled election scrutiny by "giving an answer that was not right".
+==========
+['election scrutiny', 'sin', 'answer', 'gay sex', 'ex-lib dem leader', 'statement', 'tim farron', 'right']
+++++++++++
+['tim farron', 'gay sex', 'statement', 'regret']
+['handled election scrutiny', 'lib dem leader', 'answer', 'giving']
+==========
+
+BBC Politics
+Theresa May accused by Chris Bryant of buying Tory MPs' support
+Chris Bryant claims the new Tory vice-chairmen are being paid "hush money" to ensure their loyalty.
+==========
+['tory mp', 'chris bryant', 'support', 'theresa may', 'loyalty', 'new tory vice-chairmen', 'hush money']
+++++++++++
+['buying tory mps', 'chris bryant', 'theresa', 'accused', 'support']
+['chris bryant claims', 'tory vice', 'hush money', 'loyalty', 'ensure', 'chairmen']
+==========
+
+BBC Politics
+Farage's about turn?
+Nigel Farage suggested he was coming round to the idea of a second EU referendum - what is going on?
+==========
+['second eu referendum', 'turn', 'nigel farage', 'farage', 'idea', 'round']
+++++++++++
+['farage']
+['nigel farage suggested', 'coming round', 'eu referendum']
+==========
+
+BBC Politics
+Benefits decisions
+What are the key issues she will need to address?
+==========
+['key issue', 'benefit decision']
+++++++++++
+['benefits decisions']
+['key issues', 'address']
+==========
+
+BBC Politics
+How green are the Tories?
+Theresa May's environment policy pledge is the latest step in the party's journey on the issue.
+==========
+['step', 'theresa may', 'tory', 'party', 'journey', 'issue', 'environment policy pledge']
+++++++++++
+['green', 'tories']
+['environment policy pledge', 'latest step', 'theresa', 'party', 'journey', 'issue']
+==========
+
+BBC Politics
+Tempting treats
+Brexiteers present Michel Barnier with cheese, gin and the complete works of Shakespeare.
+==========
+['cheese', 'brexiteers present michel barnier', 'shakespeare', 'complete work', 'treat', 'gin']
+++++++++++
+['tempting treats']
+['complete works', 'cheese', 'shakespeare']
+==========
+
+BBC Politics
+Scholarly replies
+The replies universities sent to Tory MP Chris Heaton-Harris's letter about their Brexit research were more varied than the initial outcry suggested.
+==========
+['scholarly reply', 'letter', 'brexit research', 'tory mp chris heaton-harris', 'reply', 'initial outcry']
+++++++++++
+['scholarly replies']
+['initial outcry suggested', 'replies universities', 'brexit research', 'harris', 'letter', 'varied']
+==========
+
+BBC Politics
+Who's in charge?
+Twelve months after its power-sharing executive split, how are people there faring?
+==========
+['people', 'twelve month', 'charge', 'power-sharing executive split']
+++++++++++
+['charge']
+['sharing executive split', 'twelve months', 'people', 'power', 'faring']
+==========
+
+BBC Politics
+Political lives
+A look back at the lives of the MPs and former MPs who passed away in 2017.
+==========
+['former mp', 'look', 'mp', 'life', 'political life']
+++++++++++
+['political lives']
+['lives', 'passed']
+==========
+
+BBC Politics
+After Brexit
+The 11 members of the Trans Pacific-Partnership account for about 8% of British exports.
+==========
+['trans pacific-partnership account', 'british export', 'member', 'brexit']
+++++++++++
+['brexit']
+['trans pacific', 'british exports', 'partnership account', '11 members']
+==========
+
+BBC Politics
+Ups and downs
+It was a rollercoaster year in British politics - here's how the opinion polls reflected it.
+==========
+['ups', 'opinion poll', 'british politics', 'down', 'rollercoaster year']
+++++++++++
+['downs']
+['opinion polls reflected', 'british politics', 'rollercoaster year']
+==========
+
+BBC Politics
+The Kings of Swing: The evolution of TV election night graphics
+BBC Parliament looks at the evolution of TV election night graphics - from the hand-painted results of the 1950s to Jeremy Vine's swingometer in a virtual Big Ben clocktower.
+==========
+['swingometer', 'jeremy vine', 'evolution', 'swing', 'virtual big ben clocktower', 'king', 'tv election night graphic', 'bbc pa rliament', 'hand-painted result']
+++++++++++
+['evolution', 'swing', 'kings']
+['bbc parliament', 'jeremy vine', 'painted results', 'evolution', 'swingometer']
+==========
+
+BBC Politics
+Corbyn's 162 questions
+Labour leader Jeremy Corbyn has asked 162 questions at PMQs in 2017. Here's a list of the subjects raised.
+==========
+['question', 'list', ' pmq', 'subject', 'labour leader jeremy corbyn', 'corbyn']
+++++++++++
+['162 questions', 'corbyn']
+['asked 162 questions', 'subjects raised']
+==========
+
+BBC Politics
+Brexit: All you need to know about the UK leaving the EU
+A guide to how the UK will leave the European Union after the 2016 referendum.
+==========
+['uk', 'eu', 'european union', 'guide', 'referendum', 'brexit']
+++++++++++
+['uk leaving', 'brexit']
+['european union', 'guide', '2016 referendum', 'leave']
+==========
+
+BBC Politics
+Party conferences 2017
+The latest on the major political parties in the autumn conference season.
+==========
+['party conference', 'autumn conference season', 'major political party']
+++++++++++
+['party conferences 2017']
+['major political parties', 'autumn conference season', 'latest']
+==========
+
+BBC Politics
+Mayor Sadiq Khan's speech interrupted by protesters
+A speech by Sadiq Khan was suspended for several minutes while demonstrators were removed by police.
+==========
+['mayor sadiq khan', 'sadiq khan', 'protester', 'speech', 'demonstrator', 'several minute', 'police']
+++++++++++
+['mayor sadiq khan', 'speech interrupted', 'protesters']
+['sadiq khan', 'removed', 'minutes', 'police', 'speech', 'suspended', 'demonstrators']
+==========
+
+BBC Politics
+Why don't celebs win in UK elections?
+Why do famous names win US elections, but British celebs fail to make it to public office.
+==========
+['famous name', 'public office', 'celebs win', 'uk election', 'u election', 'british']
+++++++++++
+['uk elections', 'celebs win']
+['famous names win', 'british celebs fail', 'public office', 'elections']
+==========
+
+BBC Politics
+Facebook and Twitter effect on political leaders
+Social media is reaching those who might not get their news from broadcasters and traditional media.
+==========
+['news', 'broadcaster', 'twitter effect', 'facebook', 'political leader', 'traditional medium', 'social medium']
+++++++++++
+['political leaders', 'twitter effect', 'facebook']
+['social media', 'traditional media', 'reaching', 'broadcasters']
+==========
+
+BBC Politics
+UKIP leader Henry Bolton on private life coverage
+Henry Bolton tells the BBC he did not want the publicity his relationship with a model attracted.
+==========
+[' bbc', 'model', 'private life coverage', 'publicity', 'henry bolton', 'relationship', 'ukip leader henry bolton']
+++++++++++
+['private life coverage']
+['henry bolton tells', 'model attracted', 'relationship', 'publicity']
+==========
+
+BBC Politics
+Peter Stringfellow on Conservatives, Brexit and election
+Peter Stringfellow calls for a general election, and for politicians to be honest about where they stand over leaving the EU.
+==========
+['general election', 'peter stringfellow', 'conservative', ' eu.', 'election', 'politician', 'brexit']
+++++++++++
+['peter stringfellow', 'conservatives', 'election', 'brexit']
+['peter stringfellow calls', 'general election', 'honest', 'leaving', 'stand', 'politicians']
+==========
+
+BBC Politics
+Michael 'Govey' Gove...
+Environment Secretary Michael Gove appears to channel his own Dead Ringers impersonation
+==========
+['environment secretary michael gove', 'michael', 'dead ringer impersonation', 'govey', 'gove']
+++++++++++
+['michael', 'govey']
+['dead ringers impersonation', 'channel']
+==========
+
+NPR Politics
+Puerto Rico Government Takes Statehood Campaign To Capitol Hill
+Puerto Rico's governnor sent a delegation of "shadow" representatives to D.C. this week. Alfonso Aguilar, one of the appointees, he spoke with NPR's Michel Martin about the latest push for tatehood.
+==========
+['tatehood', 'week', 'capitol hill', 'governnor', 'push', 'puerto rico', ' npr', 'ichel martin', 'appointee', 'shadow representative', 'puerto rico government take statehood campaign', 'delegation', 'alfonso aguilar']
+++++++++++
+['capitol hill']
+['latest push', 'puerto rico', 'alfonso aguilar', 'michel martin', 'tatehood', 'appointees', 'shadow', 'representatives', 'governnor', 'delegation', 'spoke']
+==========
+
+NPR Politics
+Trump's Latest Vulgar Comments Cast Shadow Over Legislative Agenda
+The Washington Examiner's Sarah Westwood and former GOP White House staffers Mary Kate Cary and Fred McClure join NPR's Michel Martin to discuss the explosive week in politics.
+==========
+['arah westwood', 'trump', 'washington examiner', 'former  gop white house staffer mary kate cary', 'ichel martin', 'explosive week', 'vulgar comment cast shadow legislative agenda', 'fred  mcc lure join  npr', 'politics']
+++++++++++
+['legislative agenda', 'trump']
+['explosive week', 'washington examiner', 'sarah westwood', 'michel martin', 'discuss', 'politics']
+==========
+
+NPR Politics
+DACA Extension And Bolstered Border Security Part Of Latest Negotiation Talks
+Legislators have yet to come up with a bipartisan agreement on Deferred Action for Childhood Arrivals. NPR's Michel Martin asks Republican Congressman Francis Rooney (R-Fla.) about solutions ahead.
+==========
+['bolstered border security part', 'bipartisan agreement', 'solution', 'ichel martin', 'childhood arrival . np', 'daca extension', 'republican congressman francis rooney (r-f la', 'deferred action', 'latest negotiation talk', 'legislator']
+++++++++++
+['latest negotiation talks', 'daca extension']
+['solutions ahead', 'bipartisan agreement', 'deferred action', 'childhood arrivals', 'legislators']
+==========
+
+NPR Politics
+Chelsea Manning Files For Senate Run In Maryland
+Federal Election Commission documents show Chelsea Manning has filed paperwork to run as a Democrat in Maryland.
+==========
+['chelsea manning', ' a d emocrat', 'paperwork', 'senate run', 'maryland', 'chelsea manning file', 'federal election commission document']
+++++++++++
+['chelsea manning files', 'senate run', 'maryland']
+['filed paperwork', 'maryland', 'democrat']
+==========
+
+NPR Politics
+President Trump's Idea Of Good And Bad Immigrant Countries Has A Historical Precedent
+In part, Trump's recent vulgar slur appeared to be favoring the revival of a discriminatory immigration policy abolished by the U.S. Congress more than 50 years ago.
+==========
+['good', 'trump', 'bad immigrant country  a h istorical precedent', 'discriminatory immigration policy', 'congress', 'year', ' u.s', "president trump 's i dea", 'recent vulgar slur', 'revival', 'part']
+++++++++++
+['bad immigrant countries', 'president trump', 'historical precedent']
+['50 years ago', 'favoring', 'congress', 'revival', 'trump']
+==========
+
+NPR Politics
+Why So Many House Republicans Are Retiring
+A record number of House Republicans are retiring. History shows that after a new president wins, his party doesn't fare well in the next midterms. President Trump also has low approval ratings.
+==========
+['president trump', 'record number', 'party', 'low approval rating', 'many house republican', 'next midterm', 'fare', 'history show', 'new president win', 'house republican']
+++++++++++
+['house republicans', 'retiring']
+['low approval ratings', 'president trump', 'record number', 'house republicans', 'party doesn', 'president wins', 'history shows', 'midterms', 'retiring']
+==========
+
+NPR Politics
+Sen. Ron Wyden On Russia Investigation
+Sen. Ron Wyden, Democrat of Oregon, is a member of the Senate Intelligence Committee. NPR's Scott Simon asks him about the latest on the committee's investigation into Russian  election interference.
+==========
+['russian election interference', 'democrat', 'member', 'investigation', 'senate intelligence committee . np', 'cott simon', 'committee', 'sen', 'ron wyden', 'oregon', 'russia investigation']
+++++++++++
+['ron wyden', 'russia investigation']
+['russian  election interference', 'scott simon asks', 'senate intelligence committee', 'ron wyden', 'committee', 'investigation', 'democrat', 'oregon', 'member', 'latest']
+==========
+
+NPR Politics
+Kentucky Gov. Matt Bevin On Requiring Medicaid Recipients To Work
+Kentucky is the first state to require Medicaid recipients to work or get job training in order to qualify for aid. NPR's Scott Simon talks to Gov. Matt Bevin about the new requirements.
+==========
+['new requirement', 'matt bevin', 'order', 'medicaid recipient', 'kentucky gov', 'kentucky', 'requiring medicaid recipient', 'gov', 'job training', "aid . np 's s cott simon talk", 'first state']
+++++++++++
+['requiring medicaid recipients', 'matt bevin', 'kentucky gov']
+['scott simon talks', 'require medicaid recipients', 'matt bevin', 'job training', 'qualify', 'kentucky', 'requirements', 'order', 'state']
+==========
+
+NPR Politics
+UC President Janet Napolitano On DACA Lawsuit
+University of California President Janet Napolitano talks with NPR's Scott Simon about her involvement in a lawsuit against the Trump administration over the DACA program.
+==========
+['uc president janet napolitano', 'involvement', ' npr', 'trump administration', 'university', 'california president janet napolitano talk', 'cott simon', ' dac a la wsuit', 'lawsuit', ' dac', 'program']
+++++++++++
+['daca lawsuit']
+['trump administration', 'scott simon', 'daca program', 'involvement', 'lawsuit', 'university']
+==========
+
+NPR Politics
+Organizing Puerto Rican Voters In Florida
+Puerto Rico Gov. Ricardo Rosselló is holding a town meeting with his constituents who are now living in Kissimmee, Fla. Rosselló says they are a powerful voting bloc that can help out Puerto Rico.
+==========
+['kissimmee', 'puerto rico gov', 'puerto rico', 'powerful voting bloc', 'constituent', 'puerto rican voter', 'rosselló', 'ricardo rosselló', 'florida', 'fla', 'town meeting']
+++++++++++
+['florida']
+['powerful voting bloc', 'puerto rico gov', 'puerto rico', 'town meeting', 'ricardo rosselló', 'rosselló', 'holding', 'constituents', 'kissimmee', 'living']
+==========
+
+NPR Politics
+What Trump's Language Means For Immigration Overhaul
+President Trump's reported use of vulgar language this week at a bipartisan meeting on immigration has upended those talks and raised the threat of a government shutdown.
+==========
+['president trump', 'threat', 'talk', 'week', 'trump', 'bipartisan meeting', 'vulgar language', 'use', 'immigration overhaul', 'immigration', 'anguage mean', 'government shutdown']
+++++++++++
+['immigration overhaul', 'language means', 'trump']
+['president trump', 'government shutdown', 'bipartisan meeting', 'vulgar language', 'immigration', 'threat', 'upended', 'talks', 'reported', 'raised']
+==========
+
+NPR Politics
+How Political Media Reacted To Trump's Vulgarity
+President Trump's use of vulgar language to describe countries in Africa and Central America has sparked fierce reaction. Some in the media have applauded him; others say the comments were racist.
+==========
+['president trump', 'racist', "trump 's v ulgarity", 'political medium reacted', 'vulgar language', 'africa', 'comment', 'use', 'country', 'fierce reaction', 'others', 'central america', 'medium']
+++++++++++
+['political media reacted', 'vulgarity', 'trump']
+['sparked fierce reaction', 'president trump', 'central america', 'vulgar language', 'describe countries', 'racist', 'media', 'africa', 'applauded', 'comments']
+==========
+
+NPR Politics
+What's Next For Salvadorans In The U.S.
+The U.S. is ending the temporary protected status designation for nearly 200,000 Salvadorans. Journalist Carlos Dada of the website El Faro tells NPR's Scott Simon about the situation in El Salvador.
+==========
+['journalist carlos dada', ' u.s', 'salvadoran', 'cott simon', 'el salvador', 'situation', 'temporary protected status designation', 'ext', 'website el faro']
+++++++++++
+['salvadorans']
+['journalist carlos dada', 'el salvador', 'scott simon', 'ending', 'situation', '000 salvadorans']
+==========
+
+NPR Politics
+The Russia Investigations: Bannon Comes In From The Cold, Trump Wavers On Mueller
+Exiled from Trump world, Steve Bannon is headed to the House Intelligence Committee. The president might talk to Mueller — or not. And Sen. Feinstein released a big transcript over GOP objections.
+==========
+['mueller', 'president', 'trump world', 'bannon come', 'feinstein', 'cold', 'big transcript', 'trump waver', 'house intelligence committee', 'sen', 'steve bannon', 'russia investigation', ' gop objection']
+++++++++++
+['trump wavers', 'russia investigations', 'mueller', 'bannon']
+['house intelligence committee', 'gop objections', 'feinstein released', 'trump world', 'big transcript', 'steve bannon', 'president', 'exiled', 'headed', 'mueller —']
+==========
+
+NPR Politics
+'Rapists,' 'Huts': Trump's Racist Dog Whistles Aren't New
+On Thursday, President Trump described Haiti and most of Africa with a vulgar term. Here's why that shouldn't surprise you.
+==========
+['president trump', 'acist dog whistle', 'ew', 'rump', 'africa', 'rapist', 'thursday', 'hut', 'surprise', 'haiti', 'vulgar term']
+++++++++++
+['rapists', 'trump']
+['president trump', 'vulgar term', 'shouldn', 'surprise', 'africa', 'thursday', 'haiti']
+==========
+
+New York Times Politics
+Chelsea Manning Files for Senate Run in Maryland
+Chelsea Manning, the former Army private convicted of disclosing classified information, would be challenging Senator Benjamin L. Cardin, the incumbent Democrat up for re-election in November.
+==========
+['chelsea manning', 'incumbent democrat', 'information', 'cardin', 'senator benjamin', 're-election', 'senate run', 'former army', 'maryland', 'november', 'chelsea manning file']
+++++++++++
+['chelsea manning files', 'senate run', 'maryland']
+['challenging senator benjamin', 'disclosing classified information', 'army private convicted', 'chelsea manning', 'incumbent democrat', 'cardin', 'november', 'election']
+==========
+
+New York Times Politics
+Trump Is in 'Excellent Health,' Doctor Says After Exam
+President Trump shaking hands with Dr. Ronny L. Jackson after having a physical exam on Friday.
+==========
+['president trump', 'hand', 'exam', 'trump', 'friday', 'jackson', "excellent health ,' d octor say", ' dr. ronny', 'physical exam']
+++++++++++
+['excellent health', 'doctor', 'trump']
+['physical exam', 'ronny', 'friday', 'jackson']
+==========
+
+New York Times Politics
+A Senior Republican Senator Admonishes Trump: 'America Is an Idea, Not a Race'
+President Trump during a meeting in the Roosevelt Room of the White House on Thursday.
+==========
+['president trump', ' a r ace', 'meeting', "a se nior republican senator admonishes trump : 'a merica", 'idea', 'thursday', 'white house', 'roosevelt room']
+++++++++++
+['america']
+['president trump', 'roosevelt room', 'white house', 'thursday', 'meeting']
+==========
+
+New York Times Politics
+Hawaii Panics After Alert About Incoming Missile Is Sent in Error
+An image of the alert sent to cellphones on Saturday morning.
+==========
+['incoming missile', 'error', 'alert sent', 'saturday morning', 'alert', 'cellphone', 'hawaii panic', 'image']
+++++++++++
+['hawaii panics', 'incoming missile', 'alert', 'error']
+['saturday morning', 'alert', 'cellphones', 'image']
+==========
+
+New York Times Politics
+In Trump's Immigration Remarks, Echoes of a Century-Old Racial Ranking
+Immigrants undergoing medical exams at Ellis Island in 1923. A year later, a new law significantly reduced immigration from countries outside Western Europe.
+==========
+['elli island', 'medical exam', 'mmigration remark', 'trump', 'new law', 'year', 'echo', 'country', ' a c entury-old racial ranking', 'immigration', 'immigrant', 'western europe']
+++++++++++
+['immigration remarks', 'racial ranking', 'echoes', 'century', 'trump']
+['ellis island', 'western europe', 'countries']
+==========
+
+New York Times Politics
+A Romney Who Is Unfailingly Loyal to Trump
+Ronna McDaniel, the chairwoman of the Republican National Committee, at her home in Northville, Mich. She spends up to six hours a day on the phone raising money.
+==========
+['northville', 'money', 'home', 'republican national committee', 'a ro mney', 'ronna  mcd aniel', 'hour', 'chairwoman', 'phone', 'day', 'mich']
+++++++++++
+['unfailingly loyal', 'trump', 'romney']
+['republican national committee', 'phone raising money', 'ronna mcdaniel', 'northville', 'hours', 'spends', 'chairwoman']
+==========
+
+New York Times Politics
+Uranium Miners Pushed Hard for a Comeback. They Got Their Wish.
+The shuttered Pinenut uranium mine, bottom, near the North Rim of the Grand Canyon in Arizona. Emboldened by the Trump administration, the uranium industry is trying to make a comeback.
+==========
+['bottom', 'comeback', 'hard', 'trump administration', 'north rim', 'uranium miner', 'uranium industry', 'grand canyon', 'shuttered pinenut uranium mine', ' a c omeback', 'arizona', 'wish']
+++++++++++
+['comeback']
+['uranium industry', 'grand canyon', 'trump administration', 'north rim', 'bottom', 'comeback', 'arizona', 'emboldened']
+==========
+
+New York Times Politics
+John V. Tunney, Boxer's Son Who Lasted One Term in the Senate, Dies at 83
+Senator John V. Tunney in 1976, the year he lost his seat to a former Democrat.
+==========
+['senator john', 'tunney', 'john', 'former democrat', 'term', 'year', 'seat', 'boxer', 'senate']
+++++++++++
+['tunney', 'senate', 'lasted', 'boxer']
+['senator john', 'tunney', 'democrat']
+==========
+
+New York Times Politics
+C.D.C. Postpones Session Preparing Us for Nuclear War
+An air raid drill in a school in Baltimore in 1951. The Centers for Disease Control and Prevention has postponed a session on nuclear attack preparedness that was planned for next week.
+==========
+['center', 'nuclear war', 'session', 'next week', 'c.d.c. postpones session preparing u', 'disease control', 'baltimore', 'school', 'nuclear attack preparedness', 'air raid drill', 'prevention']
+++++++++++
+['postpones session preparing', 'nuclear war']
+['nuclear attack preparedness', 'air raid drill', 'disease control', 'session', 'planned', 'baltimore', 'postponed', 'centers', 'school', 'prevention']
+==========
+
+New York Times Politics
+Thomas Luken, Veteran Ohio Democrat, Is Dead at 92
+Representative Thomas Luken, right, in December 1977 with Vice President Walter F. Mondale at a dedication ceremony for a new bus terminal in downtown Cincinnati. Mr. Luken had been the mayor there.
+==========
+['veteran ohio democrat', 'dead', 'thomas luken', 'mondale', 'luken', 'dedication ceremony', 'vice president walter', 'new bus terminal', 'representative thomas luken', 'downtown cincinnati', 'december', 'mayor']
+++++++++++
+['veteran ohio democrat', 'thomas luken']
+['vice president walter', 'representative thomas luken', 'dedication ceremony', 'bus terminal', 'downtown cincinnati', 'luken', 'mondale', 'december 1977', 'mayor']
+==========
+
+New York Times Politics
+To Get Medicaid in Kentucky, Many Will Have to Work. Advocates for the Poor Say They Will Sue.
+Kentucky Gov. Matt Bevin, a Republican, on Friday, announcing new work requirements for many of the state's Medicaid recipients.
+==========
+['medicaid', 'poor say', ' a r', 'matt bevin', 'friday', 'many', 'state', 'advocate', 'new work requirement', 'edicaid recipient', 'kentucky gov', 'kentucky', 'sue']
+++++++++++
+['medicaid', 'kentucky', 'advocates']
+['matt bevin', 'work requirements', 'medicaid recipients', 'kentucky gov', 'republican', 'state', 'announcing', 'friday']
+==========
+
+Fox News Politics
+CNN's Jake Tapper, Dr. Sanjay Gupta find critics as they assail Trump's diet, weight and health
+CNN's Jake Tapper and Dr. Sanjay Gupta assailed Trump's physical and mental health ahead of his physical exam.
+==========
+['weight', 'trump', 'critic', 'diet', 'health', ' dr. sanjay gupta', 'mental health', "cnn'", 'physical exam', 'jake tapper']
+++++++++++
+['assail trump', 'jake tapper', 'health', 'weight']
+['mental health ahead', 'jake tapper', 'physical exam', 'physical']
+==========
+
+Fox News Politics
+Lawmakers in Hawaii, Washington calm residents after false missile alarm, plan to investigate incident
+President Trump and Capitol Hill lawmakers were immediately briefed Saturday on the false alarm in Hawaii for a ballistic missile attack, including Hawaii Democratic Rep. Tulsi Gabbard who said she was trying to calm fears and "get to the bottom" of the mishap.
+==========
+['president trump', 'fear', 'resident', 'lawmaker', 'plan', 'false missile alarm', 'tulsi gabbard', 'capitol hill lawmaker', 'ballistic missile attack', 'bottom', 'hawaii democratic rep', 'false alarm', 'incident', 'saturday', 'mishap', 'hawaii', 'washington']
+++++++++++
+['false missile alarm', 'washington calm residents', 'investigate incident', 'hawaii', 'lawmakers']
+['ballistic missile attack', 'immediately briefed saturday', 'capitol hill lawmakers', 'president trump', 'calm fears', 'false alarm', 'tulsi gabbard', 'bottom', 'mishap', 'hawaii']
+==========
+
+Fox News Politics
+Chelsea Manning files to run for US Senate seat in Maryland
+Chelsea Manning, a transgender former Army intelligence analyst convicted of leaking classified documents, has filed to run for the Senate, according to federal election paperwork.
+==========
+['chelsea manning', 'transgender former army intelligence analyst', 'federal election paperwork', 'maryland', 'senate', 'chelsea manning file', 'classified document', 'u senate seat']
+++++++++++
+['chelsea manning files', 'senate seat', 'maryland']
+['federal election paperwork', 'leaking classified documents', 'chelsea manning', 'filed', 'senate', 'transgender']
+==========
+
+Fox News Politics
+Rep. Maxine Waters says she will boycott Trump's State of the Union, calls him a 'liar'
+Rep. Maxine Waters, D-Calif., on Friday became the latest Democrat to announce that she will not be attending President Trump's State of the Union address later this month -- amid growing Democratic plans to protest the event.
+==========
+['union address', 'event', "trump 's s tate", 'friday', 'democratic plan', 'democrat', ' d-c alif', "president trump 's s tate", 'rep', 'union', 'liar', 'month', 'maxine water']
+++++++++++
+['maxine waters', 'boycott trump', 'union', 'state', 'calls']
+['attending president trump', 'maxine waters', 'union address', 'latest democrat', 'event', 'state', 'protest', 'friday', 'calif', 'month', 'announce']
+==========
+
+Fox News Politics
+McSally now in for Trump in Arizona, as GOP tries to keep Senate seat
+Republican Rep. Martha McSally is backing President Trump and his agenda in her bid to keep an Arizona Senate seat for Republicans -- shifting  course from 2016 when she refused to endorse Trump's presidential campaign.
+==========
+['president trump', ' gop try', 'presidential campaign', 'trump', 'martha  mcs ally', 'arizona senate seat', 'senate seat', 'mcsa', 'bid', 'republican', 'course', 'agenda', 'arizona', 'republican rep']
+++++++++++
+['senate seat', 'mcsally', 'arizona', 'trump']
+['arizona senate seat', 'backing president trump', 'endorse trump', 'presidential campaign', 'republican rep', 'martha mcsally', 'refused', 'republicans', 'shifting', 'agenda']
+==========
+
+Fox News Politics
+Trump criticizes Democrats over DACA as bipartisan immigration deal next week seems less likely
+President Trump on Saturday argued Democrats are "doing nothing" toward crafting federal legislation that would permanently protect nearly 800,000 young illegal immigrants, as the White House and congressional leaders grapple over a solution ahead of a deadline next week.
+==========
+['president trump', 'young illegal immigrant', 'trump criticizes democrat', 'democrat', 'congressional leader', 'deadline next week', 'nothing', 'white house', 'bipartisan immigration deal next week', 'federal legislation', 'solution', 'saturday']
+++++++++++
+['trump criticizes democrats', 'bipartisan immigration deal']
+['saturday argued democrats', 'congressional leaders grapple', 'crafting federal legislation', 'president trump', 'white house', 'solution ahead', 'permanently protect', 'deadline']
+==========
+
+Fox News Politics
+Trump reportedly asks: Who's the 'pretty Korean lady'?
+The uproar over the "s---hole countries" remark attributed to President Donald Trump this week prompted some media outlets to follow up with a story about an incident that reportedly occurred in December.
+==========
+['remark', 'week', 'trump', 'story', 'hole country', 'medium outlet', 'incident', 'december', 'president donald trump', 'pretty korean lady', 'uproar']
+++++++++++
+['trump reportedly asks', 'pretty korean lady']
+['president donald trump', 'hole countries', 'week prompted', 'remark attributed', 'media outlets', 'reportedly occurred', 'follow', 'story', 'december', 'uproar', 'incident']
+==========
+
+Fox News Politics
+John Tunney, ex-US senator from California, dies at 83
+John V. Tunney, whose successful campaign for a California seat in the U.S. Senate became the basis for the 1972 Robert Redford film "The Candidate," has died. He was 83.
+==========
+['tunney', 'john', 'basis', 'john tunney', 'california', ' u.s', 'candidate', 'successful campaign', 'robert redford film', 'senate', ' a c alifornia seat', 'ex-us senator']
+++++++++++
+['john tunney', 'senator', 'california']
+['california seat', 'successful campaign', 'tunney', 'basis', 'candidate', 'senate']
+==========
+
+Fox News Politics
+Trump has first presidential physical: What to know
+The results of this doctor's appointment is of global interest. The high-profile patient? President Donald J. Trump.
+==========
+['trump', 'global interest', 'appointment', 'doctor', 'president donald', 'result', 'high-profile patient', 'presidential physical']
+++++++++++
+['presidential physical', 'trump']
+['president donald', 'profile patient', 'global interest', 'trump', 'doctor', 'results', 'appointment']
+==========
+
+Fox News Politics
+What happens during a government shutdown? 7 things you should know
+It may be a new year, but Congress is returning to the same old challenge they left behind in 2017 – agreeing on a budget.
+==========
+['old challenge', 'congress', 'new year', 'budget', 'government shutdown', 'behind', 'thing']
+++++++++++
+['government shutdown', '7 things']
+['challenge', 'agreeing', 'congress', 'budget', 'returning']
+==========
+
+The Guardian Politics
+Trump calls Fire and Fury author Michael Wolff 'mentally deranged'
+President says Fire and Fury is 'the fake book of a mentally deranged author'Trump tweets that Wolff 'knowingly writes false information'Donald Trump on Saturday called Michael Wolff, the writer of a bestselling book about his White House, "a mentally deranged author" who "knowingly writes false information". Related: Fire and Fury: Inside the Trump White House review – tell-all burns all  Continue reading...
+==========
+['knowingly', 'donald trump', 'trump', 'false information', 'fake book', 'deranged author', 'continue reading', 'fury author michael wolff', 'fire', 'trump tweet', 'president', 'bestselling book', 'wolff', 'false information ". r', 'writer', 'fury', 'trump white house review tell-all burn', 'michael wolff', 'white house', 'saturday']
+++++++++++
+['trump calls fire', 'mentally deranged']
+['mentally deranged author', 'donald trump', 'trump tweets', 'fake book', 'white house', 'continue reading', 'bestselling book', 'burns', 'writer', 'wolff', 'related', 'president', 'inside']
+==========
+
+The Guardian Politics
+Chelsea Manning files to run as Democrat for US Senate in Maryland
+Federal election documents confirm Manning's intention to run in NovemberManning jailed in 2010 for passing files to WikiLeaks and was freed last yearChelsea Manning, the former US army private who was imprisoned for passing information to WikiLeaks, has filed to run for a seat in the US Senate. Related: Chelsea Manning: 'It is terrifying to face the government alone'  Continue reading...
+==========
+['information', 'intention', "chelsea manning : 'i", 'government', 'democrat', 'maryland', 'wikileaks', 'chelsea manning file', 'seat', 'ontinue reading', 'u senate', 'federal election document', 'last yearchelsea manning', 'file', 'former u army', 'novembermanning']
+++++++++++
+['chelsea manning files', 'maryland', 'senate', 'democrat']
+['chelsea manning', 'army private', 'novembermanning jailed', 'continue reading', 'yearchelsea manning', 'passing information', 'passing files', 'imprisoned', 'intention', 'filed', 'freed', 'government', 'terrifying', 'related', 'wikileaks', 'senate']
+==========
+
+The Guardian Politics
+Doctors say new Medicaid rules 'like asking people to work with an anchor on their back'
+Administration's policy allows states to impose work requirements for people on Medicaid, meaning sick or injured Americans 'have to go to work, no matter what'Dr Gary Leroy's patients are "salt of the earth": inner-city people working in Dayton, Ohio as dishwashers, car mechanics and patient care assistants.  Related: Medicaid: Trump opens door for states to take away coverage from out-of-work Americans  Continue reading...
+==========
+['policy', 'dayton', 'car mechanic', 'dishwasher', 'work requirement', 'administration', 'trump', 'matter', 'ohio', 'out-of-work american continue reading', 'doctor', 'salt', 'new medicaid rule', 'back', 'dr gary leroy', 'medicaid', 'earth', 'coverage', 'state', 'injured american', 'patient', 'anchor', 'people', 'door', 'patient care assistant', 'inner-city people']
+++++++++++
+['medicaid rules', 'doctors', 'people', 'anchor']
+['patient care assistants', 'impose work requirements', 'trump opens door', 'dr gary leroy', 'city people working', 'car mechanics', 'injured americans', 'meaning sick', 'people', 'patients', 'policy', 'medicaid', 'earth', 'administration', 'dishwashers', 'matter', 'states', 'related', 'dayton', 'coverage']
+==========
+
+The Guardian Politics
+How Bannon turned on Trump … and where the nationalist right goes next
+The ex-White House strategist who turned his fire and fury on the president is now out at Breitbart too. Those in the know, though, say he isn't finished yetAfter Bannon: the new faces of the hard rightA snow shower had left Washington speckled in white. Steve Bannon, known for his shabby dress code, entered the five-star Hay-Adams hotel, a short walk from the White House, and delivered a speech to what one observer later dismissively called "swamp denizens". Related: 'There's no other word but racist': Trump's global rebuke for 'shithole' remark  Continue reading...
+==========
+['racist', 'trump', 'ex-white house strategist', 'nationalist right', ": 't", 'short walk', 'speech', 'swamp', 'steve bannon', 'fire', 'president', 'rump', 'five-star hay-adams hotel', 'word', 'bannon', 'observer', 'global rebuke', 'fury', 'hard righta snow shower', 'know', 'remark continue reading', 'white house', 'shabby dress code', 'breitbart', 'washington']
+++++++++++
+['bannon turned', 'trump …', 'nationalist']
+['remark  continue reading', 'left washington speckled', 'shabby dress code', 'finished yetafter bannon', 'white house strategist', 'steve bannon', 'white house', 'swamp denizens', 'short walk', 'dismissively called', 'global rebuke', 'star hay', 'adams hotel', 'white', 'turned', 'shithole', 'racist', 'faces', 'trump', 'delivered', 'speech', 'entered', 'president', 'related', 'observer', 'breitbart']
+==========
+
+The Guardian Politics
+New year's revolutions: the stories we're hoping to cover in 2018
+Guardian journalists tell us what they hope to cover in the year ahead and whyEvery January I start out with a wish list. It tends not to change hugely from year to year because many of my dream interviews are not easy to get hold of. Robert and Grace Mugabe, Vladimir Putin, Kim Jong-un, if you are reading this and fancy spending quality time with me this year, give me a bell (or answer my emails). Continue reading...
+==========
+['year', 'dream interview', 'hold  of. robert', 'guardian journalist', 'kim jong-un', 'whyevery january', 'email', 'ontinue reading', 'vladimir putin', 'grace mugabe', 'fancy spending quality time', 'wish list', "story  we'", 'bell', 'new year', 'revolution']
+++++++++++
+['revolutions', 'hoping', 'cover', 'stories']
+['vladimir putin', 'grace mugabe', 'change hugely', 'guardian journalists', 'whyevery january', 'dream interviews', 'kim jong', 'year ahead', 'continue reading', 'reading', 'answer', 'emails', 'start', 'robert', 'cover']
+==========
+
+The Guardian Politics
+The Resistance Now: Democratic donor to spend millions in youth vote drive
+Tom Steyer confirms $30m donation to help young people vote; activists celebrate Trump's London cancellation; and other resistance news this weekThe Resistance Now on FacebookThe billionaire Democratic donor Tom Steyer has announced he's pumping $30m into getting out the youth vote in the 2018 midterm elections. Continue reading...
+==========
+['youth vote', 'trump', 'young people', 'continue', 'million', 'youth vote drive', '$30 donation', 'facebookthe billionaire democratic donor tom steyer', 'resistance news', 'ondon cancellation', 'democratic donor', '$30', 'tom steyer', 'resistance', 'weekthe resistance', 'activist', 'midterm election', " he'"]
+++++++++++
+['youth vote drive', 'spend millions', 'democratic donor', 'resistance']
+['activists celebrate trump', 'young people vote', 'youth vote', 'pumping $30m', 'continue reading', 'weekthe resistance', 'resistance news', '2018 midterm elections', 'london cancellation', 'announced']
+==========
+
+The Guardian Politics
+Trump-Russia investigation: the key questions answered
+Everything you need to know about the inquiry into Russian hacking, alleged collusion and Donald Trump, plus the latest news Continue reading...
+==========
+['inquiry', 'donald trump', 'key question', 'everything', 'news continue reading', 'russian hacking', 'trump-russia investigation', 'collusion']
+++++++++++
+['key questions answered', 'russia investigation', 'trump']
+['alleged collusion', 'donald trump', 'russian hacking', 'inquiry']
+==========
+
+The Guardian Politics
+If authoritarianism is looming in the US – how come Donald Trump looks so weak? | Corey Robin
+There's little doubt that Trump's regime is a cause for concern. But fears about authoritarianism in the US ignore political realitiesIn the last several weeks, there's been an uptick in the Trump authoritarianism talk. Matt Yglesias kicked it off the day after Christmas, claiming that Trump had "consolidated power over the institutional Republican party" and was now organizing "an authoritarian regime".The New Year brought an article ("2018 Will Be a Fight to Save Democracy") and a tweet from Jonathan Chait: "I read 'How Democracies Die.' It convinced me our democracy is more precarious than it looks." Continue reading...
+==========
+['concern', 'u', ' | c orey robin', 'institutional republican party', 'save democracy', 'democracy', 'trump', 'little doubt', ' a f ight', 'authoritarianism', 'consolidated power', 'uptick', 'last several week', 'day', 'authoritarian regime', 'regime', '." c ontinue reading', 'christmas', 'article', 'jonathan chait : "i', 'political realitiesin', 'come donald trump', 'new year', "democracy die .' i", 'cause', 'trump authoritarianism talk', 'matt yglesias', 'tweet']
+++++++++++
+['donald trump', 'corey robin', 'authoritarianism', 'looming']
+['institutional republican party', 'matt yglesias kicked', 'ignore political realitiesin', 'trump authoritarianism talk', 'year brought', 'democracies die', 'consolidated power', 'continue reading', 'jonathan chait', 'authoritarian regime', 'save democracy', 'authoritarianism', 'trump', 'democracy', 'regime', 'concern', 'claiming', 'doubt', 'weeks', 'uptick', 'fight', 'christmas', 'fears', 'precarious', 'convinced', 'article', 'organizing', 'tweet']
+==========
+
+The Guardian Politics
+Even in the age of Trump, Europe still takes its cues from America | Natalie Nougayrède
+Yes, French and US feminists are different. But talk of a gulf between our continents is overdoneEurope's Americanisation is ongoing. That may well sound paradoxical. So many transatlantic gaps have appeared in the age of Trump. This American president repels many Europeans, and in unprecedented ways. Many on the old continent seek solace in the contrast: perhaps Europe's hour could be on the horizon? But it's striking how European debates on issues such as racism and feminism are now so strongly influenced by movements across the Atlantic. In the realm of ideas and campaigning, Europe and the US are drawing closer, not sliding further apart. Related: It's easy to sneer at Hollywood doing politics but the Golden Globes nailed it | Abi Wilkinson  Continue reading...
+==========
+['old continent seek solace', 'u', 'talk', 'golden globe', 'wilkinson continue reading', 'horizon', 'hollywood', 'america  | n', 'mericanisation', 'atlantic', 'feminism', 'contrast', 'cue', 'age', 'continent', 'american president repels many european', 'realm', 'europe', 'trump', 'gulf', 'racism', 'many transatlantic gap', 'nougayrède', " it'", 'u feminist', 'idea', 'issue', 'unprecedented way', 'campaigning', 'hour', 'movement', 'european debate', 'politics', ' | a']
+++++++++++
+['natalie nougayrède', 'america', 'takes', 'europe', 'trump']
+['golden globes nailed', 'continent seek solace', 'american president repels', 'transatlantic gaps', 'strongly influenced', 'european debates', 'drawing closer', 'unprecedented ways', 'sound paradoxical', 'issues', 'trump', 'atlantic', 'french', 'appeared', 'racism', 'sneer', 'movements', 'horizon', 'hollywood', 'continents', 'striking', 'overdoneeurope', 'feminists', 'feminism', 'ideas', 'related', 'contrast', 'sliding', 'realm', 'ongoing', 'politics', 'americanisation', 'campaigning', 'europe', 'europeans']
+==========
+
+The Guardian Politics
+The Guardian view on Trump's non-visit: social media beats diplomacy | Editorial
+The president's decision not to come to open the new US embassy begs the question – in an age of terror, are diplomats still necessary?The reason why President Trump called off his visit to London to open the new US embassy may never be clear. It might be wise not to overthink it; he probably didn't. Perhaps it was the threat of hostile demonstrations, or maybe a sign of the low priority he gives to a working lunch with Theresa May. Or it could even have been, as the president himself tweeted late on Thursday night, because the real estate magnate in him reckoned it was a&nbsp;bad decision to replace the "best located and finest embassy in London" with an "off location" address – a decision he wrongly&nbsp;blamed on President Obama.In fact, the move was decided in the Bush era, partly because Grosvenor Square had been outgrown, and partly because its swanky Mayfair location fell well short of the extreme security demanded of US embassies after a series of terror attacks. But, unwittingly, the president has drawn attention to a different question: whether embassies are still needed at all. When a Skype call can be set up in seconds, communication is instant and secure, and keeping up with social media reveals intelligence even the best-placed diplomat might miss, why spend billions of dollars setting up a target for terrorists? Continue reading...
+==========
+[' | e ditorial', 'question', 'move', 'grosvenor square', 'terrorist', 'social medium reveals', 'theresa may', 'diplomat', 'second', 'continue reading', 'swanky mayfair location', 'best-placed diplomat', 'social medium beat', 'president', 'threat', 'different question', 'real estate magnate', 'low priority', 'new u embassy', 'bad decision', 'age', 'thursday night', 'sign', 'decision', 'embassy', ' a s kype call', 'billion', 'president trump', 'extreme security', 'president obama', 'target', 'trump', 'fact', 'terror attack', 'hostile demonstration', 'nbsp', 'bush era', 'london', 'communication', 'secure', 'location address', 'attention', 'dollar', 'visit', 'lunch', 'non-visit', 'u embassy', 'guardian view', 'reason', 'series', 'terror']
+++++++++++
+['guardian view', 'editorial', 'visit', 'trump']
+['extreme security demanded', 'real estate magnate', 'president trump called', 'tweeted late', 'spend billions', 'continue reading', 'grosvenor square', 'low priority', 'thursday night', 'dollars setting', 'bush era', 'drawn attention', 'skype call', 'working lunch', 'hostile demonstrations', 'finest embassy', 'embassy begs', 'president obama', 'terror attacks', 'wrongly&nbsp', 'bad decision', 'embassy', 'president', '&nbsp', 'terror', 'decision', 'question', 'address', 'needed', 'diplomat', 'location', 'clear', 'outgrown', 'threat', 'blamed', 'located', 'overthink', 'reason', 'partly', 'seconds', 'decided', 'diplomats', 'target', 'unwittingly', 'instant', 'terrorists', 'reckoned', 'london', 'communication', 'visit', 'replace', 'keeping', 'theresa', 'series', 'secure', 'embassies', 'short']
+==========
+
+The Guardian Politics
+If Oprah took on Trump, he would be the ultimate winner | Jonathan Freedland
+She's better than him in so many ways but, whoever the victor, such a contest would confirm his view of the presidency as a celebrity postDonald Trump is a stone-cold racist. There was surely no doubt about that, not after he launched his presidential campaign by branding Mexican migrants as rapists and criminals. Or after he praised the white supremacists who marched under swastika banners in Charlottesville as "very fine people". Related: Celebrity politicians are a sign of our political decline | Cas Mudde  Continue reading...
+==========
+['criminal', 'doubt', 'contest', 'political decline  | c', 'trump', 'rapist', 'ultimate winner  | j onathan freedland', 'fine people', 'mexican migrant', 'celebrity postdonald trump', 'mudde continue reading', 'presidential campaign', 'charlottesville', 'view', 'victor', 'stone-cold racist', 'many way', 'oprah', 'white supremacist', 'swastika banner', 'sign', 'celebrity politician', 'presidency']
+++++++++++
+['ultimate winner', 'jonathan freedland', 'oprah', 'trump']
+['branding mexican migrants', 'celebrity postdonald trump', 'celebrity politicians', 'political decline', 'fine people', 'swastika banners', 'presidential campaign', 'white supremacists', 'cold racist', 'doubt', 'marched', 'contest', 'criminals', 'stone', 'praised', 'charlottesville', 'rapists', 'victor', 'launched', 'surely', 'related', 'confirm', 'presidency']
+==========
+
+The Guardian Politics
+Ben Rhodes: 'Obama has a serenity that I don't. I get more exercised'
+He spent 10 years as Barack Obama's right-hand man. As a new film puts him in the spotlight, he talks high-stakes diplomacy and the chaos of Trump's White HouseIn his final foreign speech as president, Barack Obama spoke to a crowd in Athens. "As you may have noticed," he said, "the next American president and I could not be more different. But American democracy is bigger than any one person." More than a year on, with that proposition tested daily, Obama's decision to make his last trip abroad to the birthplace of western democracy looks prescient.The person Obama turned to just before taking the stage was a trim man with thin, close-cropped hair and a furrowed brow who had been at his side on almost every foreign trip he made, and who helped write this and just about every other foreign policy speech the president delivered. Ben Rhodes, the longest-serving member of Obama's foreign policy team, at the age of 40, has been a permanent fixture in his close orbit; inside the Obama camp, Rhodes was routinely said to be so close to the president that their minds had melded. Continue reading...
+==========
+['prescient', 'longest-serving member', 'foreign policy', 'person', 'rhodes', 'right-hand man', 'proposition', 'trim man', 'spotlight', 'permanent fixture', 'president', 'brow', 'person obama', 'close-cropped hair', 'crowd', 'chaos', 'ben rhodes', 'birthplace', 'age', 'side', "ben rhodes : 'o bama", "trump 's w hite housein", ' 40,', 'decision', 'new film', 'obama', 'barack obama', 'athens . "a', 'year', 'continue', 'serenity', 'last trip', 'year  on,', 'obama camp', 'stage', 'western democracy', 'next american president', 'high-stakes diplomacy', 'close orbit', 'foreign trip', 'final foreign speech', 'american democracy', 'mind', 'foreign policy team']
+++++++++++
+['ben rhodes', 'exercised', 'obama', 'serenity']
+['proposition tested daily', 'foreign policy speech', 'final foreign speech', 'foreign policy team', 'barack obama spoke', 'person obama turned', 'foreign trip', 'barack obama', 'white housein', 'helped write', 'cropped hair', 'continue reading', 'spent 10 years', 'trim man', 'permanent fixture', 'trip abroad', 'film puts', 'serving member', 'hand man', 'stakes diplomacy', 'obama camp', 'western democracy', 'furrowed brow', 'american democracy', 'talks high', 'american president', 'ben rhodes', 'president delivered', 'close orbit', 'person', 'obama', 'rhodes', 'president', 'close', 'routinely', 'prescient', 'bigger', 'athens', 'crowd', 'chaos', 'birthplace', 'spotlight', 'decision', 'trump', 'longest', 'taking', 'stage', 'inside', 'melded', 'noticed', 'minds']
+==========
+
+The Guardian Politics
+Oprah Winfrey: from poverty to America's first black billionaire … to #Oprah2020?
+Succeeding Donald Trump as US president would be an incredible climax to a true rags to riches life story that fostered her trademark compassionOprah Winfrey was four-and-a-half years old, maybe five, when she decided she wasn't going to have the life expected of her. She was raised on a small Mississippi farm by her grandmother, whose highest hope for her granddaughter was that when she became someone's domestic worker, she would be treated kindly by her employers. "I just hope you get some good white folks when you grow up, treat you right, treat you nice," Winfrey said her grandmother told her.This week, there has been fevered speculation that Winfrey might run for president of the US. And that she might win – one poll found 48% of US voters would choose Winfrey, with 38% voting for Trump. Continue reading...
+==========
+['four-and-a-half year', 'domestic worker', 'donald trump', 'oprah2020', 'incredible climax', 'employer', 'nice ," w infrey', 'poverty', 'president', 'week', ' up, treat', 'black billionaire', ' us.', 'someone', 'grandmother', 'winfrey', 'true rag', 'trump', 'continue', 'life', 'life story', 'u president', 'trademark compassionoprah winfrey', 'poll', 'u voter', 'oprah winfrey', 'small mississippi farm', 'hope', 'america', 'granddaughter', 'good white folk', 'speculation']
+++++++++++
+['black billionaire …', 'oprah winfrey', 'poverty', '#oprah2020', 'america']
+['good white folks', 'small mississippi farm', 'riches life story', 'succeeding donald trump', 'trademark compassionoprah winfrey', 'life expected', 'true rags', 'domestic worker', 'incredible climax', 'poll found 48%', 'highest hope', 'treated kindly', 'fevered speculation', 'continue reading', 'half years', 'choose winfrey', 'grandmother told', 'trump', 'winfrey', 'grandmother', 'voters', 'treat', 'employers', 'raised', 'president', '38% voting', 'fostered', 'decided', 'granddaughter']
+==========
+
+The Guardian Politics
+California in revolt: how the progressive state plans to foil the Trump agenda
+From immigration to the environment and recreational cannabis, state leaders and activists are finding paths to circumvent the administration. Will it work? California prides itself on being first with progressive laws on climate change, labor rights and marijuana. In 2018, the Golden State's "firsts" are defensive – bold proposals and legal maneuvers to protect citizens from Donald Trump.State leaders have pushed legislation and lawsuits to circumvent and undo Trump's agenda on immigration, the environment, internet freedom and other liberal causes. One of the most consequential victories came Tuesday when a judge in San Francisco blocked the Trump administration's plan to end a program that allows 800,000 undocumented people to study and work in the US. Continue reading...
+==========
+['internet freedom', 'donald trump', 'san francisco', 'progressive state plan', 'administration', 'consequential victory', 'climate change', 'immigration', 'marijuana', 'undo trump', 'liberal cause', 'revolt', 'path', 'trump administration', 'agenda', 'golden state', 'activist', 'program', 'legislation', 'progressive law', 'judge', 'lawsuit', 'tuesday', 'labor right', 'trump agenda', 'plan', 'legal maneuver', 'environment', 'first', 'defensive bold proposal', ' us. continue reading', 'california', 'recreational cannabis', 'undocumented people', 'citizen', 'state leader']
+++++++++++
+['progressive state plans', 'trump agenda', 'california', 'revolt']
+['san francisco blocked', 'state leaders', 'internet freedom', 'donald trump', 'labor rights', 'pushed legislation', 'legal maneuvers', 'climate change', 'consequential victories', 'continue reading', 'finding paths', 'undo trump', 'protect citizens', 'recreational cannabis', 'golden state', '000 undocumented people', 'bold proposals', 'california prides', 'progressive laws', 'trump administration', 'administration', 'activists', 'study', 'judge', 'agenda', 'immigration', 'liberal', 'marijuana', 'tuesday', 'lawsuits', 'circumvent', 'environment', 'defensive', 'firsts', 'program']
+==========
+
+The Guardian Politics
+Why is the cover of Fire and Fury so ugly?
+The bestselling Donald Trump exposé has a startlingly bald, plain cover – but that is in keeping with the no-frills conventions of the politics genreDonald Trump and subtlety do not go together naturally, but the cover of Michael Wolff's bestselling White House exposé Fire and Fury greets the gaze like a towel-snap to the face: shouty, red capitals over a shouty, red man. While the red, white and blue cover is certainly eye-catching, its design has been criticised as too bland and simplistic for a book that has had such an explosive impact. "Why did they have to make the Fire and Fury book cover on Microsoft Word?" reads one derisive Twitter take, while a design website gave it faint praise for echoing "the raw immediacy and faux-outsider aesthetics that underlined Trump's entire campaign".After he was approached by "some folks who think the existing cover is a disaster and a missed opportunity", designer Edel Rodriguez (who made two striking Trump covers for Time magazine) came up with a new cover for Wolff's book. His bright and bold design, featuring a fiery Trump looming over a tiny White House, is now being celebrated as the cover that should have been, with some readers even downloading it to replace the original on their e-readers. Continue reading...
+==========
+['subtlety', 'face', 'missed opportunity', 'raw immediacy', 'cover', 'striking trump cover', 'time magazine', 'bestselling donald trump exposé', 'fire', 'bland', 'new cover', 'wolff', 'tiny white house', 'fury', 'fury book cover', 'faint praise', 'red capital', 'gaze', 'no-frills convention', 'disaster', 'bright', 'fiery trump looming', 'reader', 'trump', 'continue', 'shouty', 'design', 'blue cover', 'red man', 'bald', 'bold design', 'explosive impact . "w hy', 'microsoft word', 'derisive twitter take', 'faux-outsider aesthetic', 'white house exposé fire', 'entire campaign', 'folk', 'designer edel rodriguez', 'michael wolff', 'politics', 'book', 'e-readers']
+++++++++++
+['cover']
+['designer edel rodriguez', 'fiery trump looming', 'striking trump covers', 'politics genredonald trump', 'design website gave', 'tiny white house', 'fury book cover', 'underlined trump', 'fury greets', 'frills conventions', 'raw immediacy', 'red capitals', 'continue reading', 'time magazine', 'derisive twitter', 'missed opportunity', 'faint praise', 'explosive impact', 'startlingly bald', 'red man', 'bold design', 'microsoft word', 'entire campaign', 'outsider aesthetics', 'plain cover', 'existing cover', 'blue cover', 'michael wolff', 'design', 'white', 'cover', 'wolff', 'original', 'subtlety', 'featuring', 'criticised', 'folks', 'simplistic', 'bland', 'towel', 'reads', 'naturally', 'replace', 'celebrated', 'bright', 'disaster', 'approached', 'shouty', 'keeping', 'catching', 'downloading', 'readers', 'echoing']
+==========
+
+The Guardian Politics
+Pod Save America: 'it boys' of podcasting take their brand of lefty politics global
+Their show reaches 1.5 million Americans and has been dubbed the left's answer to conservative talk radio. Ahead of a blockbuster European tour, the former Obama staffers talk about becoming a voice of the resistanceIt has been called the new Daily Show, "cooler than cool", and "the left's answer to conservative talk radio", and has become a top destination for any Democrat thinking of running against Donald Trump in 2020.Pod Save America is a podcast featuring Jon Favreau, Jon Lovett, Dan Pfeiffer and Tommy Vietor: former aides to Barack Obama who left the White House for Hollywood, whose show now reaches an average of 1.5 million Americans per episode and sells out live events across the US. This month, it is coming to London. Continue reading...
+==========
+['brand', 'donald trump', 'new daily show', 'pod save america', 'show', 'american', 'hollywood', 'episode', 'jon lovett', 'former obama staffer', 'democrat thinking', ' us.', 'white house', 'lefty politics', 'cooler', 'former aide', 'answer', 'podcast', 'barack obama', 'continue', 'resistanceit', 'dan pfeiffer', 'left', 'london', 'blockbuster european tour', 'tommy vietor', 'jon favreau', 'conservative talk radio', 'month', 'voice', 'top destination', 'live event', 'average', 'ahead', 'cool']
+++++++++++
+['pod save america', 'lefty politics global', 'brand', 'podcasting']
+['pod save america', 'blockbuster european tour', 'conservative talk radio', 'obama staffers talk', 'barack obama', 'donald trump', 'live events', 'dan pfeiffer', 'jon lovett', 'top destination', 'tommy vietor', '5 million americans', 'democrat thinking', 'continue reading', 'white house', 'daily show', 'show reaches 1', 'reaches', 'answer', 'aides', 'running', 'resistanceit', 'hollywood', 'episode', 'coming', 'voice', 'called', 'average', 'month', 'ahead', 'dubbed', 'sells', 'cooler', 'london']
+==========
+
+The Guardian Politics
+'Are you a racist?' Trump questioned over 'shithole' comments – video
+Donald Trump ignores questions from reporters after signing a Martin Luther King Jr Day proclamation, amid reports he called a number of African countries 'shitholes' during a meeting earlier in the week. Journalists call out to the US president as he leaves the room, asking 'Are you a racist?' and 'Will you give an apology?' Continue reading...
+==========
+['question', 'racist', 'donald trump', 'report', 'journalist', 'shitholes', 'number', 'u president', 'african country', 'week', 'meeting', "apology ?' c ontinue reading", 'comment', ' a m artin luther king jr day proclamation', 'room', 'reporter', "racist ?' t rump"]
+++++++++++
+['trump questioned', 'shithole', 'racist', 'video', 'comments']
+['amid reports', 'african countries', 'journalists call', 'continue reading', 'meeting earlier', 'racist', 'called', 'apology', 'president', 'reporters', 'signing', 'leaves', 'shitholes', 'number']
+==========
+
+The Guardian Politics
+'I'll beat Oprah': Donald Trump dismisses 2020 election speculation – video
+Donald Trump tells reporters he would beat Oprah Winfrey in a presidential race. Trump went on to say that he liked Winfrey but doubted she would run for president in 2020'Yeah, I'll beat Oprah': Trump says he'd defeat Winfrey in presidential race Continue reading...
+==========
+['winfrey', 'election speculation video', 'onald trump', 'donald trump', 'president', 'oprah winfrey', 'trump', 'presidential race', "beat oprah ': t rump", " he' defeat winfrey", 'reporter', "yeah , i'", 'beat oprah', 'presidential race continue reading']
+++++++++++
+['ll beat oprah', 'video']
+['ll beat oprah', 'beat oprah winfrey', 'defeat winfrey', 'presidential race', 'winfrey', 'president', 'trump', 'doubted']
+==========
+
+The Guardian Politics
+California's marijuana muddle – video explainer
+On 1 January, California became the latest state to permit the sale of recreational marijuana in licensed stores. But three days later, the attorney general issued new guidance calling on states to enforce federal drug laws prohibiting the substance. Despite the confusion, the new shops have been doing brisk business Continue reading...
+==========
+['brisk business continue reading', 'recreational marijuana', 'licensed store', 'attorney', 'day', 'sale', 'substance', 'new guidance', 'confusion', ' 1 j', 'new shop', 'california', 'marijuana muddle video explainer', 'state', 'federal drug law']
+++++++++++
+['marijuana muddle', 'video explainer', 'california']
+['attorney general issued', 'licensed stores', 'latest state', 'recreational marijuana', 'guidance calling', 'confusion', 'california', 'states', '1 january', 'permit', 'shops', 'substance']
+==========
+
+The Guardian Politics
+Donald Trump has 'lost it', says Michael Wolff – video
+Author of Fire and Fury quotes Steve Bannon, stating that Donald Trump 'has lost it'. Speaking to Savannah Guthrie on NBC's Today programme, Wolff said the president's staff had all said Trump was like a child• Watch the full interview on NBC's homepage Continue reading...
+==========
+['child', 'donald trump', 'trump', 'author', 'full interview', ' nbc', 'staff', " it'", 'fire', 'president', 'homepage continue reading', 'wolff', 'fury quote steve bannon', 'savannah guthrie', 'michael wolff video', 'oday programme']
+++++++++++
+['donald trump', 'michael wolff', 'video']
+['homepage continue reading', 'child• watch', 'today programme', 'savannah guthrie', 'full interview', 'donald trump', 'trump', 'wolff', 'author', 'president', 'speaking', 'staff', 'stating']
+==========
+
+The Guardian Politics
+The moment the UN votes to reject Trump's position on Jerusalem – video
+The United Nations general assembly votes on a resolution denouncing Donald Trump's recognition of Jerusalem as the capital of Israel. The resolution passes by a resounding majority, with just nine countries - including the US and Israel - voting against it. Members of the general assembly break into a round of applause when the result is announcedUN votes resoundingly to reject Trump's recognition of Jerusalem as capital Continue reading...
+==========
+[' it. member', 'u', 'donald trump', 'jerusalem video', 'israel voting', 'trump', 'resolution pass', 'recognition', 'resounding majority', 'jerusalem', 'moment', 'un', 'announcedun vote', 'result', 'capital', 'applause', 'israel', 'general assembly break', 'resolution', 'round', 'country', 'position', 'capital continue reading', 'united nation']
+++++++++++
+['reject trump', 'position', 'jerusalem', 'moment', 'video', 'votes']
+['announcedun votes resoundingly', 'general assembly break', 'capital continue reading', 'resounding majority', 'reject trump', 'resolution passes', 'capital', 'voting', 'israel', 'including', 'recognition', 'applause', 'round', 'jerusalem', 'members', 'result', 'countries']
+==========
+
+The Guardian Politics
+'We will remember this': US slams UN Jerusalem vote – video
+The US ambassador to the UN, Nikki Haley, speaks at an emergency session of the general assembly ahead of a vote criticising Donald Trump's recognition of Jerusalem as the capital of Israel. Haley warns those countries voting in favour of the resolution that 'the United States will remember this day' when other nations call on the US to 'use our influence for their benefit'UN votes resoundingly to reject Trump's recognition of Jerusalem as capital Continue reading...
+==========
+['benefit', 'u', 'donald trump', 'influence', 'general assembly', 'trump', 'recognition', 'emergency session', 'jerusalem', 'haley', 'slam un jerusalem vote video', 'un', 'day', 'capital', 'nation', 'israel', 'united state', 'resolution', 'favour', 'country', 'u ambassador', ' un, nikki haley', 'capital continue reading', 'vote']
+++++++++++
+['jerusalem vote', 'video', 'remember', 'slams']
+['general assembly ahead', 'capital continue reading', 'nikki haley', 'countries voting', 'votes resoundingly', 'reject trump', 'emergency session', 'united states', 'nations call', 'haley warns', 'capital', 'benefit', 'israel', 'influence', 'resolution', 'recognition', 'favour', 'jerusalem', 'remember', 'speaks', 'ambassador']
+==========
+
+The Guardian Politics
+US House approves Republican tax legislation – video
+House Republicans have approved the most sweeping rewrite of the US tax code in a generation, sending the measure to the Senate. The House passed the bill 227 to 203, with 12 Republicans voting against the plan and no Democrats supporting it. Final passage for the measure will mark the first major legislative success for Trump since taking officeHouse passes Republican tax overhaul branded 'the worst bill in history' Continue reading...
+==========
+['generation', 'sweeping rewrite', 'trump', 'measure', 'democrat', 'u house', 'senate', 'house', 'continue reading', 'plan', 'officehouse pass republican tax overhaul', 'house republican', ' it. final passage', 'u tax code', 'republican tax legislation video', 'republican', 'history', 'first major legislative success', 'bill']
+++++++++++
+['video']
+['major legislative success', 'house republicans', 'house passed', 'tax code', 'democrats supporting', 'continue reading', 'sweeping rewrite', 'final passage', '12 republicans voting', 'worst bill', 'bill 227', 'generation', 'history', 'measure', 'trump', 'sending', 'senate', 'approved']
+==========
+
+The Guardian Politics
+US vetos 'insulting' UN vote over status of Jerusalem – video
+The US ambassador to the UN, Nikki Haley, says a resolution calling for the withdrawal of Donald Trump's recognition of Jerusalem as the capital of Israel is 'an insult which will not be forgotten'. The US used its veto in order to stop the resolution passing, after every other security council member supported itUS outnumbered 14 to 1 as it vetoes UN vote on status of Jerusalem Continue reading...
+==========
+['security council member', 'donald trump', 'jerusalem video', 'un vote', 'recognition', 'veto', 'jerusalem continue reading', 'jerusalem', 'resolution passing', 'capital', 'insult', 'israel', 'resolution', 'order', ' itu', 'withdrawal', 'u ambassador', ' un, nikki haley', 'vote', 'u veto', 'status']
+++++++++++
+['status', 'vetos', 'insulting', 'jerusalem', 'video']
+['jerusalem continue reading', 'donald trump', 'nikki haley', 'resolution passing', 'resolution calling', 'jerusalem', 'israel', 'insult', 'recognition', 'forgotten', 'order', 'status', 'capital', 'vetoes', 'withdrawal', 'ambassador']
+==========
+
+The Guardian Politics
+Trump judicial nominee can't answer basic legal questions at hearing – video
+US senator John Kennedy asked one of Trump's district court judge nominees, Matthew Petersen, a series of questions on basic law, and he was unable to answer them. Concerns have been raised over the suitability of the five nominees for the role, including Matthew Petersen. The American Bar Association declared one of the nominees 'unqualified' Continue reading...
+==========
+['question', 'concern', 'role', 'trump', 'suitability', 'video', 'trump judicial nominee', 'continue reading', 'american bar association', 'answer basic legal question', 'district court judge nominee', 'basic law', 'nominee', 'u senator john kennedy', 'series', 'matthew petersen']
+++++++++++
+['trump judicial nominee', 'hearing', 'video']
+['including matthew petersen', 'matthew petersen', 'basic law', 'continue reading', 'raised', 'concerns', 'trump', 'unable', 'nominees', 'suitability', 'questions', 'series', 'answer', 'unqualified']
+==========
+
+The Guardian Politics
+FCC commissioner slams net neutrality vote: 'We're handing over the keys to the internet' – video
+One of the five commissioners of the US Federal Communications Commission, or FCC, hits out at her fellow regulators for voting to scrap rules protecting an open internet, saying the decision hands control of the net over to "multi-billion dollar corporations. Mignon Clyburn was one of the two Democrats on the panel to vote to keep the net neutrality rules, while the FCC's three Republican commissioners voted to repeal them Continue reading...
+==========
+['internet', 'continue', 'democrat', 'rule', 'control', 'republican commissioner', 'video', 'handing', 'multi-billion dollar corporation', 'panel', ' fcc', 'net neutrality rule', 'open internet', "fcc  commissioner slam net neutrality vote : 'w", 'fellow regulator', 'key', 'net', 'commissioner', 'mignon clyburn', 'decision', 'u federal communication commission']
+++++++++++
+['video', 'internet', 'handing']
+['scrap rules protecting', 'federal communications commission', 'billion dollar corporations', 'decision hands control', 'net neutrality rules', 'republican commissioners voted', 'open internet', 'fellow regulators', 'continue reading', 'mignon clyburn', 'commissioners', 'voting', 'multi', 'repeal', 'panel', 'democrats']
+==========
+
+CNN Politics
+Missile threat alert for Hawaii a false alarm
+An emergency alert notification sent out on Saturday claiming a "ballistic missile threat inbound to Hawaii" was a false alarm, according to the Hawaii Office of Emergency Management and a tweet from one of the state's Democratic congresswomen.
+
+    
+
+
+==========
+['missile threat alert', 'hawaii office', 'false alarm', 'emergency alert notification', 'state', 'tweet', 'emergency management', 'saturday', ' a " ballistic missile threat inbound', 'hawaii', 'emocratic congresswoman']
+++++++++++
+['missile threat alert', 'false alarm', 'hawaii']
+['emergency alert notification', 'emergency management', 'democratic congresswomen', 'saturday claiming', 'false alarm', 'hawaii office', 'hawaii', 'state', 'tweet']
+==========
+
+CNN Politics
+Trump's White House: How a bipartisan policy meeting devolved into vulgarity
+Republican Sen. Tom Cotton was meeting with a foreign leader in his Capitol Hill office Thursday when he received an urgent message to come to the White House.
+
+    
+
+
+==========
+['vulgarity', 'trump', 'hite house', 'republican sen', 'urgent message', 'capitol hill office thursday', 'foreign leader', 'white house', 'tom cotton', 'bipartisan policy meeting']
+++++++++++
+['white house', 'vulgarity', 'trump']
+['foreign leader', 'white house', 'republican sen', 'tom cotton', 'urgent message', 'meeting', 'received']
+==========
+
+CNN Politics
+Trump tweets about DACA amid 'shithole' controversy
+President Donald Trump took to Twitter Saturday morning to blame Democrats for stalled immigration negotiations amid backlash over vulgar comments he made in the Oval Office while meeting with lawmakers this week.
+
+    
+
+
+==========
+['shithole', 'trump tweet', 'week', 'oval office', 'immigration negotiation', 'controversy', 'democrat', 'twitter saturday morning', 'vulgar comment', 'backlash', 'lawmaker', 'president donald trump']
+++++++++++
+['daca amid', 'trump tweets', 'shithole', 'controversy']
+['president donald trump', 'twitter saturday morning', 'oval office', 'vulgar comments', 'blame democrats', 'lawmakers', 'meeting']
+==========
+
+CNN Politics
+The Point: Trump doesn't seem to know what 'tough' actually means
+Hoping to quiet the furor caused by his calling certain countries "shitholes" in an immigration meeting with members of Congress at the White House on Thursday, President Donald Trump sought to recast the slur as simply evidence of his muscular approach to governance -- and life.
+
+    
+
+
+==========
+['trump', 'evidence', 'mean', 'congress', 'member', 'slur', 'president donald trump', 'shitholes', 'point', 'thursday', 'immigration meeting', 'muscular approach', 'white house', 'certain country', 'life', 'governance', 'furor']
+++++++++++
+['trump doesn', 'means', 'point', 'tough']
+['immigration meeting', 'simply evidence', 'furor caused', 'white house', 'muscular approach', 'governance', 'members', 'calling', 'thursday', 'congress', 'recast', 'hoping', 'quiet', 'shitholes', 'countries']
+==========
+
+CNN Politics
+African countries demand Trump apology
+The African Union, a group representing the continent's countries, issued a blistering statement demanding that President Donald Trump retract and apologize for comments referring to African nations as "shitholes."
+
+    
+
+
+==========
+['african country', 'group', 'comment', 'blistering statement', 'country', 'continent', 'african union', 'african nation', 'trump apology', 'shitholes', 'president donald trump retract']
+++++++++++
+[]
+['blistering statement demanding', 'comments referring', 'group representing', 'african union', 'african nations', 'shitholes', 'apologize', 'continent', 'issued', 'countries']
+==========
+
+CNN Politics
+Dick Durbin admonishes Trump for 'shithole' comments
+Illinois Democratic Sen. Dick Durbin, a key negotiator in immigration talks, rebuked President Donald Trump on Friday morning for referring to African nations as "shithole" countries.
+
+    
+
+
+==========
+['shithole', 'friday morning', 'trump', 'key negotiator', 'comment', 'dick durbin', 'shithole country', 'immigration talk', 'illinois democratic sen', 'african nation', 'president donald trump']
+++++++++++
+['shithole', 'comments']
+['illinois democratic sen', 'african nations', 'friday morning', 'key negotiator', 'dick durbin', 'immigration talks', 'shithole', 'referring', 'countries']
+==========
+
+CNN Politics
+These lawmakers were in the Trump immigration meeting. Here's what they had to say.
+During a White House meeting Thursday on immigration reform, President Donald Trump reportedly referred to African nations as "shithole countries." Here's what five of the lawmakers who attended the meeting said afterward about the controversy. Two who attended -- House Majority Leader Kevin McCarthy, a Republican from California, and Rep. Robert Goodlatte, a Republican from Virginia -- have not made public comments.
+
+    
+
+
+==========
+['-- h', ' a r epublican', 'controversy', 'robert goodlatte', 'african nation', 'majority leader kevin  mcc arthy', 'lawmaker', 'rep', 'president donald trump', 'virginia', 'meeting', 'immigration reform', 'california', 'shithole country', ' a w hite house meeting thursday', 'public comment', 'trump immigration meeting']
+++++++++++
+['trump immigration meeting', 'lawmakers']
+['made public comments', 'immigration reform', 'african nations', 'robert goodlatte', 'shithole countries', 'meeting', 'california', 'controversy', 'lawmakers', 'republican', 'afterward', 'attended', 'virginia']
+==========
+
+CNN Politics
+Doctors want President Trump's head examined
+President Donald Trump is "in excellent health," White House physician, Dr. Ronny Jackson, said following his physical Friday. But it's not clear whether any mental health tests were conducted, despite urging from mental health professionals.
+
+    
+
+
+==========
+['president trump', 'excellent health ," w hite house physician', 'physical friday', 'mental health test', 'head', 'doctor', 'president donald trump', ' dr. ronny jackson', 'mental health professional', " it'"]
+++++++++++
+['president trump', 'head examined', 'doctors']
+['president donald trump', 'white house physician', 'mental health tests', 'mental health professionals', 'excellent health', 'physical friday', 'ronny jackson', 'urging', 'clear', 'conducted']
+==========
+
+CNN Politics
+Chelsea Manning files for US Senate run in Maryland
+Chelsea Manning, the former Army intelligence analyst who spent several years in prison for leaking classified information, has filed to run as a Democratic candidate for Senate in Maryland.
+
+    
+
+
+==========
+['u senate run', 'chelsea manning', 'information', ' a d emocratic candidate', 'former army intelligence analyst', 'prison', 'maryland', 'senate', 'several year', 'chelsea manning file']
+++++++++++
+['chelsea manning files', 'senate run', 'maryland']
+['army intelligence analyst', 'leaking classified information', 'chelsea manning', 'democratic candidate', 'years', 'maryland', 'prison', 'spent', 'senate', 'filed']
+==========
+
+CNN Politics
+Virginia's new governor takes veiled shots at Trump
+Virginia Gov. Ralph Northam took some veiled shots at President Donald Trump as he was sworn in as the 73rd governor of the commonwealth Saturday, telling a crowd gathered in Richmond, "You don't have to be loud to lead."
+
+    
+
+
+==========
+['trump', 'richmond , "y', 'crowd', 'new governor', 'ralph northam', 'governor', 'veiled shot', 'commonwealth saturday', 'president donald trump', 'virginia gov', 'virginia']
+++++++++++
+['virginia', 'trump']
+['president donald trump', 'crowd gathered', '73rd governor', 'commonwealth saturday', 'virginia gov', 'ralph northam', 'veiled shots', 'telling', 'richmond', 'sworn']
+==========
+
+CNN Politics
+Condoleezza Rice on #MeToo: 'Let's not turn women into snowflakes'
+Former US Secretary of State Condoleezza Rice said that while she believes the #MeToo movement is "a good thing," people need "to be a little bit careful" about how they respond to it.
+
+    
+
+
+==========
+['little bit careful', 'state condoleezza rice', '#met', "#met oo : 'l", 'people', 'condoleezza rice', 'woman', 'movement', 'former u secretary', 'snowflake', 'good thing']
+++++++++++
+['turn women', 'condoleezza rice', 'snowflakes', '#metoo']
+['state condoleezza rice', 'bit careful', '#metoo movement', 'good thing', 'people', 'believes', 'secretary', 'respond']
+==========
+
+CNN Politics
+Anti-abortion activist resigns from HHS post
+Anti-abortion activist Teresa Manning resigned from her post as deputy assistant secretary for population affairs on Friday, a Health and Human Services Department spokesman tells CNN.
+
+    
+
+
+==========
+[' a h ealth', 'friday', 'anti-abortion activist resigns', 'deputy assistant secretary', 'population affair', 'human service department spokesman', 'post', ' cnn', ' hhs post', 'anti-abortion activist teresa manning']
+++++++++++
+['abortion activist resigns', 'hhs post']
+['deputy assistant secretary', 'population affairs', 'friday', 'health']
+==========
+
+CNN Politics
+Retirement watch: 3 groups of House Republicans whose exits would shake up the 2018 map
+Two California House Republicans headed for the exits this week as a blue wave builds ahead of this year's midterm elections.
+
+    
+
+
+==========
+['group', 'retirement watch', 'week', 'midterm election', 'blue wave build', 'year', 'map', 'exit', 'california house republican', 'house republican']
+++++++++++
+['retirement watch', 'house republicans', '3 groups', 'shake', 'exits']
+['midterm elections', 'exits']
+==========
+
+CNN Politics
+MLK nephew: Trump 'racially ignorant and racially uninformed'
+Isaac Newton Farris Jr., Martin Luther King Jr.'s nephew, told CNN on Friday that while he does not believe President Donald Trump is a "racist in the traditional sense," he does think the President is "racially ignorant and racially uninformed."
+
+    
+
+
+==========
+['president', 'mlk  nephew', 'trump', ' a " racist', 'isaac newton farris  jr.', 'friday', 'traditional sense', ' cnn', 'martin luther king  jr.', 'nephew', 'president donald trump']
+++++++++++
+['mlk nephew', 'racially ignorant', 'racially uninformed', 'trump']
+['president donald trump', 'told cnn', 'traditional sense', 'racially ignorant', 'racially uninformed', 'president', 'racist', 'nephew', 'friday']
+==========
+
+CNN Politics
+Trump denies making 'shithole countries' comment
+President Donald Trump defended his immigration stance Friday morning following his rejection of a bipartisan deal on the Deferred Action for Childhood Arrivals program and outrage over his vulgar dismissal of people from "shithole countries."
+
+    
+
+
+==========
+['immigration stance friday morning', 'trump', 'comment', 'bipartisan deal', 'shithole country', 'people', 'vulgar dismissal', 'childhood arrival program', 'president donald trump', 'rejection', 'deferred action', 'outrage']
+++++++++++
+['trump denies making', 'shithole countries', 'comment']
+['childhood arrivals program', 'vulgar dismissal', 'shithole countries', 'bipartisan deal', 'deferred action', 'people', 'rejection', 'outrage']
+==========
+
+CNN Politics
+WSJ: Trump lawyer arranged porn star payment for her silence in October 2016
+President Donald Trump's longtime attorney denied that Trump had a sexual encounter with a porn star after a report by The Wall Street Journal on Friday alleged the lawyer helped facilitate a six-figure payment to the actress in October 2016 in exchange for her silence.
+
+    
+
+
+==========
+['report', 'trump', 'lawyer', 'sexual encounter', 'friday', 'wall street journal', 'actress', 'longtime attorney', 'october', 'porn star', 'president donald trump', 'six-figure payment', 'silence', 'porn star payment', 'wsj: trump lawyer', 'exchange']
+++++++++++
+['silence', 'october 2016']
+['wall street journal', 'lawyer helped facilitate', 'longtime attorney denied', 'president donald trump', 'friday alleged', 'sexual encounter', 'figure payment', 'porn star', 'trump', 'report', 'actress', 'exchange', 'october 2016', 'silence']
+==========
+
+CNN Politics
+Paul Ryan predicts no shutdown, says GOP won't 'tackle' Medicare, Social Security
+House Speaker Paul Ryan said Friday that Republicans will not attach an immigration deal to a must-pass spending bill ahead of next week's deadline and predicted there would be no government shutdown.
+
+    
+
+
+==========
+['paul ryan', 'house speaker paul ryan', 'tackle', 'friday', 'government', 'social security', ' gop', 'next week', 'shutdown', 'medicare', 'republican', 'must-pass spending bill', 'deadline', 'immigration deal']
+++++++++++
+['paul ryan predicts', 'social security', 'gop won', 'shutdown', 'medicare', 'tackle']
+['government shutdown', 'immigration deal', 'republicans', 'attach', 'friday', 'deadline', 'predicted']
+==========
+
+CNN Politics
+The history of US government shutdowns in 1 chart
+
+
+    
+
+
+==========
+['chart', 'history', 'u government shutdown']
+++++++++++
+['government shutdowns', 'history', '1 chart']
+[]
+==========
+
+CNN Politics
+US ambassador resigns, saying he can no longer work with Trump
+The US ambassador to Panama has resigned over differences with the Trump administration.
+
+    
+
+
+==========
+['u ambassador', 'work', 'u ambassador resigns', 'trump', 'panama', 'trump administration', 'difference']
+++++++++++
+['ambassador resigns', 'longer work', 'trump']
+['trump administration', 'panama', 'resigned', 'differences', 'ambassador']
+==========
+
+CNN Politics
+The week in politics
+
+
+    
+
+
+==========
+['politics', 'week']
+++++++++++
+['politics']
+[]
+==========
+
+CNN Politics
+Tillerson tells State Department staff 'values matter'
+Secretary of State Rex Tillerson gave an impassioned speech to State Department staff about the value of diversity and the importance of treating people with respect on Friday, just a day after his boss, President Donald Trump, drew ire for allegedly describing certain nations as "shithole countries."
+
+    
+
+
+==========
+['state rex tillerson', 'importance', 'respect', 'friday', 'state department staff', 'value', 'ire', 'president donald trump', 'day', 'secretary', 'bos', 'tillerson tell state department staff', 'shithole country', 'people', 'certain nation', 'diversity', 'impassioned speech']
+++++++++++
+['values matter']
+['state department staff', 'president donald trump', 'treating people', 'drew ire', 'allegedly describing', 'shithole countries', 'impassioned speech', 'importance', 'respect', 'friday', 'nations', 'secretary', 'diversity']
+==========
+
+CNN Politics
+EPA inspector general to look into agency spending on Pruitt's security detail
+The Environmental Protection Agency inspector general will look into agency spending in connection with EPA enforcement agents being used on Administrator Scott Pruitt's security detail, according to a letter sent to Rep. Peter DeFazio, the top Democrat on the House Transportation Committee.
+
+    
+
+
+==========
+['pruitt', 'connection', 'epa  inspector general', 'environmental protection agency inspector general', 'top democrat', 'letter', 'agency spending', 'peter  def azio', ' epa enforcement agent', 'security detail', 'house transportation committee', 'rep', 'administrator scott pruitt']
+++++++++++
+['epa inspector general', 'security detail', 'agency spending', 'pruitt']
+['epa enforcement agents', 'house transportation committee', 'administrator scott pruitt', 'agency spending', 'security detail', 'peter defazio', 'top democrat', 'letter', 'connection']
+==========
+
+CNN Politics
+John Kelly likes to pretend Trump's tweets don't matter. But they do
+Tweets? What tweets?
+
+    
+
+
+==========
+['john kelly', 'matter', 'tweet', 'trump']
+++++++++++
+['john kelly likes', 'pretend trump', 'tweets don', 'matter']
+['tweets']
+==========
+
+CNN Politics
+What we know about Trump under oath
+President Donald Trump is no stranger to testifying in legal cases, once estimating that he had given more than 100 depositions and testified in the same number of court hearings as well.
+
+    
+
+
+==========
+['trump', 'stranger', 'deposition', 'oath', 'legal case', 'court hearing', 'president donald trump', 'number']
+++++++++++
+['trump']
+['president donald trump', 'legal cases', 'court hearings', 'stranger', '100 depositions', 'estimating', 'testified', 'testifying', 'number']
+==========
+
+CNN Politics
+Trump issues warning, but continues to honor Iran deal
+President Donald Trump on Friday avoided upending the nuclear deal with Iran that he has repeatedly disparaged, agreeing to waive key sanctions the US lifted as part of the deal.
+
+    
+
+
+==========
+['u', 'trump issue', 'friday', 'iran', 'iran deal', 'president donald trump', 'nuclear deal', 'key sanction', 'deal', 'part']
+++++++++++
+['trump issues warning', 'honor iran deal', 'continues']
+['president donald trump', 'waive key sanctions', 'friday avoided upending', 'repeatedly disparaged', 'nuclear deal', 'agreeing', 'lifted']
+==========
+
+CNN Politics
+Trump cancels London visit over 'bad' embassy deal
+US President Donald Trump won't be paying a visit to London to open his country's billion-dollar embassy, he tweeted Thursday.
+
+    
+
+
+==========
+['thursday', 'billion-dollar embassy', 'country', 'trump cancel london visit', 'london', 'u president donald trump', 'embassy deal', 'visit']
+++++++++++
+['embassy deal']
+['dollar embassy', 'tweeted thursday', 'london', 'paying', 'country', 'visit', 'billion']
+==========
+
+CNN Politics
+Trump decries immigrants from 'shithole countries' coming to US
+President Donald Trump expressed frustration behind closed doors with people coming to the US from "shithole countries," The Washington Post reported on Thursday.
+
+    
+
+
+==========
+['u', 'closed door', 'thursday', 'frustration', 'shithole country', 'washington post', 'people', 'trump decries immigrant', 'president donald trump']
+++++++++++
+['trump decries immigrants', 'shithole countries', 'coming']
+['washington post reported', 'closed doors', 'shithole countries', 'people coming', 'thursday']
+==========
+
+CNN Politics
+Analysis: Why no one should believe Trump's 'shithole countries' denial
+On Friday morning, 15 hours after it was first reported that Donald Trump had referred to various sovereign nations as "shithole countries," the President took to Twitter to deny it.
+
+    
+
+
+==========
+['denial', 'one', "trump 's ' shithole country", 'president', 'donald trump', 'friday morning', 'twitter', 'shithole country', ' it.', 'hour', 'analysis', 'various sovereign nation']
+++++++++++
+['shithole countries', 'denial', 'analysis', 'trump']
+['donald trump', 'friday morning', 'shithole countries', 'sovereign nations', 'twitter', '15 hours', 'reported', 'president', 'referred']
+==========
+
+CNN Politics
+Trump signs MLK Jr. proclamation amid cries of racism
+President Donald Trump will sign a proclamation Friday declaring Martin Luther King Jr. Day, one day after making disparaging comments about Haiti and African countries.
+
+    
+
+
+==========
+['proclamation friday', 'african country', 'cry', 'trump sign  mlk  jr. proclamation', 'comment', 'president donald trump', 'racism', 'day', 'martin luther king  jr. day', 'haiti']
+++++++++++
+['proclamation amid cries', 'racism']
+['making disparaging comments', 'president donald trump', 'african countries', 'haiti']
+==========
+

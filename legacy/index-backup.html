@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>News Console</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--meta http-equiv="refresh" content="3; URL=index.html"-->
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js" type="text/javascript"></script>
+
+<style type="text/css">
+    html, body {
+        height: 100%;
+        margin: 0px;
+    }
+    #network1 {
+        box-sizing:border-box;
+        width: 100%;
+        height: 100%;
+        border: 1px solid lightgray;
+    }
+</style>
+</head>
+
+<body>
+<div id="network1"></div>
+
+<script type="text/javascript">
+    // Create an array with nodes.
+    // Syntax for each node: {id: 1, label: 'Node 1'}, ...
+    var nodes = new vis.DataSet([
+            {id: 0, label: 'president trump'},
+    {id: 1, label: 'brexit'},
+    {id: 2, label: 'trump'},
+    {id: 3, label: 'fire'},
+    {id: 4, label: 'theresa may'},
+    {id: 5, label: 'russia investigation'},
+    {id: 6, label: 'michael wolff'},
+    {id: 7, label: 'fury'},
+    {id: 8, label: '&lt;em&gt; fire'},
+    {id: 9, label: 'white house'},
+    {id: 10, label: 'people'},
+    {id: 11, label: ' u.s'},
+    {id: 12, label: 'jeremy corbyn'},
+    {id: 13, label: 'uk'},
+    {id: 14, label: 'new book'},
+    {id: 15, label: 'way'},
+    {id: 16, label: 'labour'},
+    {id: 17, label: 'rift'},
+    {id: 18, label: 'russian'},
+    {id: 19, label: 'steve bannon'}
+    ]);
+
+    // Create an array with edges.
+    // Syntax for each edge: {from: 1, to: 3}, ...
+    var edges = new vis.DataSet([
+        
+    ]);
+
+    // Create a network.
+    var container = document.getElementById('network1');
+    var data = {
+        nodes: nodes,
+        edges: edges
+    };
+    var options = {};
+    var network = new vis.Network(container, data, options);
+</script>
+</body>
+</html>

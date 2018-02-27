@@ -1,0 +1,1586 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--meta http-equiv="refresh" content="10; URL=index.html"-->
+
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/materialize.min.css" rel="stylesheet" type="text/css">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+
+<script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<script>
+$(document).ready(function () {
+  function activaTab(tab){
+      $('.category-list a[href="#' + tab + '"]').tab('show');
+      console.log(tab);
+  };
+  // activaTab('business-tab');
+});
+</script>
+</head>
+<body>
+  <!-- Admin Console main section -->
+  <div class="main">
+    <div class="main-top"></div>
+    <div class="main-left">
+      <ul class="nav nav-tabs category-list">
+        <li><b>Categories</b></li>
+        <li><a href="#business-tab" data-toggle="tab">business</a></li>
+        <li><a href="#politics-tab" data-toggle="tab">politics</a></li>
+        <li><a href="#technology-tab" data-toggle="tab">technology</a></li>
+      </ul>
+      <div class="filter">
+        <form class="filter-form" action="index.html">
+          <b>Filter:</b><input type="text" name="filter" value="">
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+    </div>
+    <div class="main-right tab-content">
+      <div class="tab-pane category-tab" id="business-tab">
+        <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578422438/white-house-physician-says-trump-is-in-excellent-health?utm_medium=RSS&utm_campaign=politics"><b>White House Physician Says Trump Is In &#x27;Excellent Health&#x27;</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 16:34:00 -0500</p>
+        <p class="summary">The White House physician made public comments on Tuesday about President Trump&#x27;s checkup at the Walter Reed Military Medical Center. Last week, the doctor said the president is in &quot;excellent health.&quot;</p>
+        </div>
+      </div>
+    
+      <div class="tab-pane category-tab" id="politics-tab">
+        <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578422438/white-house-physician-says-trump-is-in-excellent-health?utm_medium=RSS&utm_campaign=politics"><b>White House Physician Says Trump Is In &#x27;Excellent Health&#x27;</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 16:34:00 -0500</p>
+        <p class="summary">The White House physician made public comments on Tuesday about President Trump&#x27;s checkup at the Walter Reed Military Medical Center. Last week, the doctor said the president is in &quot;excellent health.&quot;</p>
+        </div>
+        <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/trump-vulgarity-debate.html?partner=rss&emc=rss"><b>White House Memo: Debate Continues Over What Trump Said. But Does the Exact Word Matter?</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:30:39 GMT</p>
+        <p class="summary">President Trump on Tuesday at the White House.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0bodlhfIv3I/index.html"><b>Trump says he wants immigrants from &#x27;everywhere&#x27;</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 18:17:54 GMT</p>
+        <p class="summary">President Donald Trump said Tuesday he wants immigrants who come from &quot;everywhere,&quot; following reports last week that he disparaged immigrants from African countries and Haiti and welcomed more people from Norway.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/trump-shithole-shithouse-immigration.html?partner=rss&emc=rss"><b>Trump&#x27;s Harsh Words, Not His Plan for Wall, Dominate Hearing</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:30:26 GMT</p>
+        <p class="summary">&quot;I don&#x27;t dispute that the president was using tough language,&quot; Kirstjen Nielsen, the secretary of homeland security, told the Senate Judiciary Committee on Tuesday. &quot;Others in the room were also using tough language.&quot;</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Og5EfO3chFQ/index.html"><b>Dr. Ronny Jackson&#x27;s glowing bill of health for Trump</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:43:46 GMT</p>
+        <p class="summary">Dr. Ronny Jackson, the presidential physician, gushed about President Donald Trump&#x27;s health during a briefing before the White House press corps on Tuesday, touting the President&#x27;s &quot;good genes,&quot; how he did &quot;exceedingly well&quot; on his cognitive test and his &quot;excellent&quot; cardiac health.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578415397/homeland-security-secretary-says-she-did-not-hear-trump-use-that-vulgar-word?utm_medium=RSS&utm_campaign=politics"><b>Homeland Security Secretary Says She &#x27;Did Not Hear&#x27; Trump Use &#x27;That&#x27; Vulgar Word</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:01:00 -0500</p>
+        <p class="summary">At a contentious congressional testimony, Kirstjen Nielsen said under oath said President Trump and others used &quot;tough language&quot; on immigration, but not a particular</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2017/12/22/trump-says-at-some-point-he-might-work-with-democrats/"><b>Trump says &#x27;at some point&#x27; he might work with Democrats</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Fri, 22 Dec 2017 13:43:53 +0000</p>
+        <p class="summary">
+	
+	
+	Still celebrating passage of a tax bill with only Republican votes, President Trump on Friday took to Twitter to predict that &quot;at some point&quot; he would start working with Democrats &quot;for the good of the country.&quot; Trump said that infrastructure would be &quot;a perfect place to start,&quot; referring to an initiative the White House is [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/09/white-house-confirms-trump-to-attend-davos-gathering-synonymous-with-wealth-and-power/"><b>Trump to attend World Economic Forum in Switzerland, a gathering synonymous with wealth and power</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Tue, 09 Jan 2018 20:57:28 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump will address the World Economic Forum in Davos, Switzerland, this month, the White House said Tuesday, a startling decision that will bring the unorthodox U.S. leader face to face with global elites who have been Trump&#x27;s fierce critics and frequent foils. White House press secretary Sarah Huckabee Sanders said Trump will use the [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OyBhDL3tnQ/index.html"><b>DHS secretary says Trump used &#x27;tough&#x27; language on immigration but denies hearing specific slurs</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 18:21:48 GMT</p>
+        <p class="summary">The homeland security secretary on Tuesday faced a grilling from senators in the wake of the President&#x27;s vulgar remarks about the origins of immigrants to the US -- a conversation for which she was in the room.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/kirstjen-nielsen-trump-shithole-remark/"><b>Democrats accuse Trump administration official of &quot;amnesia&quot; on president&#x27;s vulgarity</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:45:39 +0000</p>
+        <p class="summary">Republicans struggled to get their stories straight Tuesday as President Donald Trump&#x27;s Homeland Security secretary became the latest GOP official to offer an inconclusive version of a meeting in which Trump is said to have used vulgar remarks that have been criticized as racist.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/04/trump-calls-for-bipartisan-immigration-deal-for-dreamers-but-reiterates-demand-for-border-wall/"><b>Trump calls for &#x27;bipartisan&#x27; immigration deal for &#x27;dreamers&#x27; but reiterates demand for border wall</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Thu, 04 Jan 2018 18:01:59 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump on Thursday called on Congress to deliver a bipartisan deal to ensure that some younger undocumented immigrants can remain in the country without fear of deportation, but he maintained his demand for a border wall and cuts to legal immigration channels that Democrats have opposed. &quot;I think it can be bipartisan,&quot; Trump said [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/09/trump-ill-beat-oprah-video"><b>&#x27;I&#x27;ll beat Oprah&#x27;: Donald Trump dismisses 2020 election speculation </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Tue, 09 Jan 2018 19:54:52 GMT</p>
+        <p class="summary">Donald Trump tells reporters he would beat Oprah Winfrey in a presidential race. Trump went on to say that he liked Winfrey but doubted she would run for president in 2020&#x27;Yeah, I&#x27;ll beat Oprah&#x27;: Trump says he&#x27;d defeat Winfrey in presidential race </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ubFee7yVPV8/index.html"><b>Booker slams DHS secretary&#x27;s &#x27;amnesia&#x27; on Trump&#x27;s reported &#x27;shithole&#x27; comment</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:33:57 GMT</p>
+        <p class="summary">Sen. Cory Booker slammed the homeland security secretary in a speech Tuesday morning for claiming ignorance to the President&#x27;s slander of African countries.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/05/donald-trump-has-lost-it-says-michael-wolff-video"><b>Donald Trump has &#x27;lost it&#x27;, says Michael Wolff </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Fri, 05 Jan 2018 16:16:35 GMT</p>
+        <p class="summary">Author of Fire and Fury quotes Steve Bannon, stating that Donald Trump &#x27;has lost it&#x27;. Speaking to Savannah Guthrie on NBC&#x27;s Today programme, Wolff said the president&#x27;s staff had all said Trump was like a child• Watch the full interview on NBC&#x27;s homepage </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/11/treasury-secretary-says-new-iran-sanctions-are-coming-as-administration-faces-another-deadline-on-nuclear-deal/"><b>Treasury secretary says new Iran sanctions are coming as administration faces another deadline on nuclear deal</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Thu, 11 Jan 2018 23:10:31 +0000</p>
+        <p class="summary">
+	
+	
+	The Trump administration said Thursday that it plans additional sanctions on Iran that are separate from those covered under the international nuclear deal with Iran, an indication that President Trump is unlikely to break the 2015 deal now. The president&#x27;s top national security advisers met with Trump on Thursday afternoon at the White House ahead of [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/17/trump-in-excellent-overall-health-white-house-doctor-says-video"><b>Trump would benefit from diet lower in fat, White House doctor says </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:14:43 GMT</p>
+        <p class="summary">The US president had a normal score on a cognitive exam and is in excellent health, although he would benefit from a lower-fat diet and routine exercise, the White House doctor said </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/right-and-left-react-to-president-trumps-comments-on-immigration.html?partner=rss&emc=rss"><b>Right and Left React to President Trump&#x27;s Comments on Immigration</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:00:23 GMT</p>
+        <p class="summary">President Trump speaking to reporters on Sunday as he arrived for dinner with Representative Kevin McCarthy, the majority leader, at Trump International Golf Club in Florida. &quot;I&#x27;m the least racist person you will ever interview, that I can tell you,&quot; Mr. Trump said.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/video/us/politics/100000005676770/heated-exchanges-about-trumps-words.html?partner=rss&emc=rss"><b>Heated Exchanges About Trump&#x27;s Words</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:18:15 GMT</p>
+        <p class="summary">A Senate hearing meant to be about border walls devolved into a back-and-forth on whether the president used an obscenity to describe African and Caribbean countries.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578424523/white-house-doctor-says-trump-is-in-excellent-physical-cognitive-health?utm_medium=RSS&utm_campaign=politics"><b>White House Doctor Says Trump Is In &#x27;Excellent&#x27; Physical, Cognitive Health</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:17:04 -0500</p>
+        <p class="summary">Dr. Ronny Jackson said the president could benefit from losing between 10 and 15 pounds over the coming year as well as beginning an exercise regimen.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/ng-interactive/2017/dec/08/donald-trump-russia-investigation-key-questions-latest-news-collusion-timeline"><b>Trump-Russia investigation: the key questions answered</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Fri, 08 Dec 2017 12:00:02 GMT</p>
+        <p class="summary">Everything you need to know about the inquiry into Russian hacking, alleged collusion and Donald Trump, plus the latest news </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2017/10/11/60/60/rtx3ai40.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/p1pooP8Rk1A/trump-and-russia-investigation-what-to-know.html"><b>Trump and the Russia investigation: What to know</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 21:15:00 GMT</p>
+        <p class="summary">Questions about Russia&#x27;s involvement in the U.S. election continuously have plagued the Trump administration.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h0FQPKQPWrM/index.html"><b>Who is Dr. Ronny Jackson?</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:24:36 GMT</p>
+        <p class="summary">President Donald Trump&#x27;s physician fielded questions from reporters on Trump&#x27;s recent physical at the White House news briefing Tuesday. So who is Rear Adm. Ronny Jackson -- the doctor serving the executive branch?
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/14/white-house-claims-wall-street-journal-misquoted-trump-as-saying-he-has-a-good-relationship-with-north-koreas-kim-jong-un/"><b>White House claims Wall Street Journal misquoted Trump as saying he has a good relationship with Kim Jong Un</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Sun, 14 Jan 2018 18:21:50 +0000</p>
+        <p class="summary">
+	
+	
+	PALM BEACH, Fla. — President Trump claimed Sunday that the Wall Street Journal deliberately misquoted him as saying that he probably has a good relationship with North Korean leader Kim Jong Un. The White House is disputing the newspaper&#x27;s report that Trump, in an interview last week with several Journal reporters, said he has a [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/06/trump-says-hes-open-to-talks-with-north-korea-hopes-rogue-nation-participates-in-winter-olympics/"><b>Trump says he&#x27;s open to talks with North Korea, hopes rogue nation participates in Winter Olympics</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Sat, 06 Jan 2018 18:11:33 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump on Saturday said he remains open to direct talks with North Korea&#x27;s regime over its nuclear program and added that he hopes the rogue Asian nation participates in the Winter Olympics to be held in South Korea next month. &quot;Sure, I always believe in talking,&quot; Trump said during a news conference at Camp [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2017/12/20/trump-says-he-might-soon-visit-border-wall-prototypes-near-san-diego/"><b>Trump says he might soon visit border wall prototypes near San Diego</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 20 Dec 2017 17:55:26 +0000</p>
+        <p class="summary">
+	
+	
+	Construction of President Trump&#x27;s promised U.S.-Mexico border wall remains a distant prospect, but he might soon take an opportunity to remind Americans of his continued commitment to seeing it through. During a Cabinet meeting on Wednesday, Trump said he might soon visit a plot of remote land along the border outside San Diego, where six [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yOwomv5UnnU/index.html"><b>US cuts funding for Palestinians following Trump&#x27;s Twitter threat</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:34:33 GMT</p>
+        <p class="summary">The US has announced that it will hold back more than half of the funding it provides for a UN agency that supports Palestinians, about two weeks after President Donald Trump threatened to pull funding for the group.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/02/trump-urges-justice-department-to-act-on-comey-suggests-huma-abedin-should-face-jail-time/"><b>Trump urges Justice Department to &#x27;act&#x27; on Comey, suggests Huma Abedin should face jail time</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Tue, 02 Jan 2018 19:05:40 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump on Tuesday appeared to suggest that Huma Abedin, a former top aide to Hillary Clinton, should face jail time, days after the State Department posted emails found on her estranged husband&#x27;s computer that included confidential government information. In a tweet, Trump also urged the Justice Department to act in prosecuting Abedin and former [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/16/trumps-approval-rating-at-lowest-for-any-president-in-their-first-year"><b>Trump&#x27;s approval rating at lowest for any president in their first year</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 18:40:26 GMT</p>
+        <p class="summary"> Gallup poll shows Trump has averaged just 39% approval rating since his inauguration, a number that&#x27;s unprecedented for a US presidentDonald Trump wraps up a year in office with the lowest average approval rating of any elected president in his first year.That is according to polling by Gallup, which shows that Trump has averaged just a 39% approval rating since his inauguration. The previous low was held by Bill Clinton, whose first-year average stood 10 points higher than Trump&#x27;s, at 49%. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pxI1LMAWiQM/index.html"><b>Trump&#x27;s slow-burn trade agenda is poised to heat up</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 12:24:59 GMT</p>
+        <p class="summary">It took President Donald Trump just two and a half days to make good on his promise to pull the US from the Trans-Pacific Partnership, the behemoth free trade agreement negotiated by his predecessor.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/04/trump-on-bannon-compliment-he-changed-his-tune-pretty-quick/"><b>Trump on Bannon compliment: &#x27;He changed his tune pretty quick&#x27;</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Thu, 04 Jan 2018 17:29:06 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump spoke publicly Thursday about his nasty feud with former senior aide Stephen K. Bannon, noting that the Breitbart News executive had praised him on a radio show a night earlier. &quot;He called me a &#x27;great man&#x27; last night,&quot; Trump told reporters at the White House, ahead of a meeting with Republican senators on immigration. [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/12/trump-cancels-london-visit-to-dedicate-new-u-s-embassy-citing-bad-deal-to-sell-and-relocate-building/"><b>Trump &#x27;cancels&#x27; London visit to dedicate new U.S. Embassy, citing &#x27;bad deal&#x27; to sell and relocate building</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Fri, 12 Jan 2018 07:39:00 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump said he has called off a planned ceremonial visit to Britain because he didn&#x27;t want to be associated with what he called a bad real estate deal in which the U.S. Embassy is being relocated from central London to &quot;an off location.&quot; In a Twitter message shortly before midnight Thursday, Trump implicitly rejected [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/steve-bannon-mueller-russia-subpoena.html?partner=rss&emc=rss"><b>Bannon Is Subpoenaed in Mueller&#x27;s Russia Investigation</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:03:08 GMT</p>
+        <p class="summary">Stephen K. Bannon arrived to testify before the House Intelligence Committee during a closed-door session on Tuesday.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/03/lawyer-claims-donations-fall-far-short-of-high-costs-of-defamation-suit-against-trump/"><b>Lawyer claims donations fall far short of high costs of defamation suit against Trump</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 03 Jan 2018 11:00:25 +0000</p>
+        <p class="summary">
+	
+	
+	Facing questions about how a defamation suit against President Trump is being funded, a lawyer for plaintiff Summer R. Zervos has issued a statement saying that the Internet fundraising appeal she has hosted on her website has brought in only a fraction of what it will take to pursue the case. &quot;To date the fund has received [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/16/steve-bannon-trump-congress-intelligence-questioning"><b>Bannon refuses lawmakers&#x27; questions, following &#x27;White House instructions&#x27;</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:13:43 GMT</p>
+        <p class="summary">Democrat says Bannon&#x27;s lawyer said former strategist, facing subpoena, would otherwise have been willing to respondSteve Bannon refused to answer questions from the House Intelligence Committee during a closed-door session, even after he was issued a subpoena to testify by the committee on Tuesday, saying that the White House had told him not to.Adam Schiff, the ranking Democrat on the committee, said during a news conference after the marathon hearing, that Bannon&#x27;s lawyer had told the committee that the former Breitbart executive &quot;was willing to answer our questions but under instructions from the White House not to&quot;. He condemned what he called &quot;a gag order from the White House&quot;. </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/01/16/60/60/694940094001_5712987947001_5712982998001-vs.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/64xyfHNa958/trump-has-first-presidential-physical-what-to-know.html"><b>Trump has first presidential physical: What to know</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:00:00 GMT</p>
+        <p class="summary">The results of this doctor&#x27;s appointment is of global interest. The high-profile patient? President Donald J. Trump.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/niJ0rRYSx5o/index.html"><b>White House doctor: &#x27;No concerns&#x27; about Trump&#x27;s cognitive ability</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:04:52 GMT</p>
+        <p class="summary">President Donald Trump asked the White House doctor to perform a cognitive exam during his physical last week, despite the doctor&#x27;s determination that such testing wasn&#x27;t necessary.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/02/trump-threatens-to-cut-off-u-s-aid-to-palestinians-over-jerusalem-row/"><b>Trump threatens to cut off U.S. aid to Palestinians over Jerusalem row</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 03 Jan 2018 00:05:13 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump threatened Tuesday to cut off U.S. aid money to the Palestinian Authority amid a backlash over his decision to recognize Jerusalem as the capital of Israel, a move that has threatened to undermine potential peace talks in the Middle East. In a pair of tweets, Trump said the Palestinians show &quot;no appreciation or [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/14/how-a-mans-first-ever-tweet-about-obamas-respect-proved-more-popular-than-trumps-bluster/"><b>How a man&#x27;s first-ever tweet, about Obama&#x27;s respect, proved more popular than Trump&#x27;s bluster</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Sun, 14 Jan 2018 21:46:39 +0000</p>
+        <p class="summary">
+	
+	
+	Donald Trump sent the 2,559th tweet of his presidency on Saturday. Like many before, it was combative and vague and quite popular. &quot;So much Fake News is being reported,&quot; Trump wrote — perhaps referring to reports that he had complained of immigrants from &quot;shithole countries,&quot; or perhaps rebutting the previous night&#x27;s NBC News report that he once called a career intelligence analyst a &quot;pretty Korean lady.&quot; The [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/trump-immigration-terror-convictions.html?partner=rss&emc=rss"><b>White House Fuels Immigration Debate With Terrorism Statistics</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:20:14 GMT</p>
+        <p class="summary">Kirstjen Nielsen, the homeland security secretary, called the report&#x27;s findings &quot;truly chilling data&quot; during a Senate Judiciary Committee hearing on Tuesday.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2017/12/19/white-house-glosses-over-disagreement-with-ally-britain-over-jerusalem/"><b>White House glosses over disagreement with ally Britain over Jerusalem</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Tue, 19 Dec 2017 22:06:44 +0000</p>
+        <p class="summary">
+	
+	
+	British Prime Minister Theresa May aired her differences with President Trump over the U.S. policy on Jerusalem during a phone call Tuesday, but you wouldn&#x27;t know it from the White House account of the conversation. &quot;The President and Prime Minister discussed next steps in forging peace in the Middle East,&quot; the White House said in [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/01/12/60/60/694940094001_5709189856001_5709187430001-vs.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/WAsyGfs1qbI/doj-to-appeal-san-fran-daca-ruling-will-ask-supreme-court-to-end-program.html"><b>DOJ to appeal San Fran DACA ruling, will ask Supreme Court to end program</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 21:00:00 GMT</p>
+        <p class="summary">The Justice Department on Tuesday said it plans to appeal a lower-court ruling that blocked the Trump administration from ending an Obama-era program aimed at shielding immigrants brought to the U.S. illegally as children from deportation.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/09/trump-urges-congress-to-pass-bill-of-love-to-protect-dreamers-but-reiterates-demand-for-border-wall/"><b>Trump urges Congress to pass &#x27;bill of love&#x27; to protect &#x27;dreamers&#x27; but reiterates demand for border wall</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Tue, 09 Jan 2018 21:14:46 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump met with a bipartisan group of lawmakers at the White House on Tuesday in an effort to revive stalled talks over immigration, urging them to pass a &quot;bill of love&quot; to protect some undocumented immigrants from deportation. Trump expressed confidence that a deal over the fate of the &quot;dreamers&quot; — people who arrived [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/15/dreamers-policy-progress-and-disaster-has-become-a-pattern-trump"><b>Immigration policy progress and setback have become pattern for Dreamers</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 13:17:03 GMT</p>
+        <p class="summary">Negotiations over immigration in America have always been precarious, but Trump has complicated the picture even moreGreisa Martínez Rosas has seen it before: a rare bipartisan breakthrough on immigration policy, offering a glimmer of hope to advocates like herself. Then a swift unraveling. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/03/trump-making-plans-to-attend-georgia-alabama-college-football-championship/"><b>Trump making plans to attend Georgia-Alabama college football championship</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 03 Jan 2018 22:38:40 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump is reportedly making plans to attend the college football national championship game between the University of Georgia and the University of Alabama on Monday night in Atlanta. The Atlanta Journal-Constitution reported Wednesday that local law enforcement is working with the Secret Service to prepare for Trump&#x27;s arrival at Mercedes-Benz Stadium. First lady Melania [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XdBfBNomCG8/index.html"><b>The Point: Here&#x27;s exactly how Dick Durbin destroyed Kirstjen Nielsen&#x27;s &#x27;shithole&#x27; explanation</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 21:59:14 GMT</p>
+        <p class="summary">When Department of Homeland Security chief Kirstjen Nielsen agreed to testify before the Senate Judiciary Committee on Tuesday, she could have never imagined she would find herself in the middle of a, well, shitstorm over &quot;shithole.&quot;
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/donald-trump-presidential-health-exam/"><b>Trump healthy, did &quot;exceedingly well&quot; on cognitive test, doctor says</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:27:38 +0000</p>
+        <p class="summary">President Donald Trump&#x27;s overall health &quot;is excellent&quot; and he did &quot;exceedingly well&quot; on cognitive screening, the Navy doctor who performed Trump&#x27;s first medical checkup said Tuesday.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T7mGFBFOhcI/index.html"><b>White House hosts a &#x27;conversation with Women of America&#x27; amid #MeToo movement</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 20:40:51 GMT</p>
+        <p class="summary">More than a dozen top White House officials will attend a series of events on Tuesday that the Trump administration is billing as a &quot;conversation with Women of America.&quot;
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/commentisfree/2018/jan/12/the-guardian-view-on-trumps-non-visit-social-media-beats-diplomacy"><b>The Guardian view on Trump&#x27;s non-visit: social media beats diplomacy | Editorial</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Fri, 12 Jan 2018 18:34:21 GMT</p>
+        <p class="summary">The president&#x27;s decision not to come to open the new US embassy begs the question – in an age of terror, are diplomats still necessary?The reason why President Trump called off his visit to London to open the new US embassy may never be clear. It might be wise not to overthink it; he probably didn&#x27;t. Perhaps it was the threat of hostile demonstrations, or maybe a sign of the low priority he gives to a working lunch with Theresa May. Or it could even have been, as the president himself tweeted late on Thursday night, because the real estate magnate in him reckoned it was a&amp;nbsp;bad decision to replace the &quot;best located and finest embassy in London&quot; with an &quot;off location&quot; address – a decision he wrongly&amp;nbsp;blamed on President Obama.In fact, the move was decided in the Bush era, partly because Grosvenor Square had been outgrown, and partly because its swanky Mayfair location fell well short of the extreme security demanded of US embassies after a series of terror attacks. But, unwittingly, the president has drawn attention to a different question: whether embassies are still needed at all. When a Skype call can be set up in seconds, communication is instant and secure, and keeping up with social media reveals intelligence even the best-placed diplomat might miss, why spend billions of dollars setting up a target for terrorists? </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/14/trump-says-im-not-a-racist-and-denies-shithole-countries-remark/"><b>Trump says &#x27;I&#x27;m not a racist&#x27; and denies &#x27;shithole countries&#x27; remark</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 03:17:16 +0000</p>
+        <p class="summary">
+	
+	
+	PALM BEACH, Fla. — President Trump said Sunday that he is &quot;not a racist&quot; and denied that he had used the term &quot;shithole countries&quot; to describe Haiti and some African nations. &quot;No, I&#x27;m not a racist,&quot; he told reporters. &quot;I&#x27;m the least racist person you have ever interviewed.&quot; Trump spoke before having dinner with House [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2017/dec/19/us-house-approves-republican-tax-legislation-video"><b>US House approves Republican tax legislation </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Tue, 19 Dec 2017 22:08:31 GMT</p>
+        <p class="summary">House Republicans have approved the most sweeping rewrite of the US tax code in a generation, sending the measure to the Senate. The House passed the bill 227 to 203, with 12 Republicans voting against the plan and no Democrats supporting it. Final passage for the measure will mark the first major legislative success for Trump since taking officeHouse passes Republican tax overhaul branded &#x27;the worst bill in history&#x27; </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bey17gRcpOQ/index.html"><b>READ: President Trump&#x27;s physical exam report</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:38:36 GMT</p>
+        <p class="summary">
+    
+</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/01/16/60/60/694940094001_5712817372001_5712800968001-vs.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/SYUB-yWpIbI/dhs-boss-hit-with-s-load-questions-about-president-trumps-language.html"><b>DHS boss hit with &#x27;s---&#x27; load of questions about President Trump&#x27;s language</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:00:00 GMT</p>
+        <p class="summary">Kirstjen Nielsen came to Capitol Hill Tuesday to talk about key issues like border security and terrorism, but the Department of Homeland Security secretary instead found herself repeatedly answering questions about President Trump&#x27;s language during a recent meeting.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/donald-trump-aides-debate-shithole-shithouse/"><b>Trump aides debate which version of vulgarity Trump uttered</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 16:35:03 +0000</p>
+        <p class="summary">As the fallout over President Donald Trump&#x27;s use of a vulgarity bleeds into a second week, aides to the president are locked in an internal debate over which version of the word the president used to describe certain countries during immigration talks with senators.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/06/trump-boasts-that-hes-like-really-smart-and-a-very-stable-genius-amid-questions-over-his-mental-fitness/"><b>Trump boasts that he&#x27;s &#x27;like, really smart&#x27; and a &#x27;very stable genius&#x27; amid questions over his mental fitness</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Sat, 06 Jan 2018 13:22:28 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump lashed out again at a new book that suggests top White House aides fear that he is unfit for the job, calling the book &quot;a work of fiction&quot; and declaring that libel laws are too weak. &quot;It&#x27;s a disgrace that he can do something like this,&quot; Trump said of the book, &quot;Fire and Fury: [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578265710/trump-campaign-player-to-appear-before-congressional-panel?utm_medium=RSS&utm_campaign=politics"><b>Trump Campaign Player To Appear Before Congressional Panel</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 07:28:00 -0500</p>
+        <p class="summary">On Tuesday, former chief strategist Steve Bannon testifies before the House Intelligence Committee, one of the congressional panels investigating Russian interference in the 2016 election.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/business/gm-nafta.html?partner=rss&emc=rss"><b>G.M. Chief Cautions Trump Administration on Upending Nafta</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:45:35 GMT</p>
+        <p class="summary">The leadership team of General Motors discussed the company&#x27;s prospects at an investor conference in Detroit on Tuesday. From left, Mary T. Barra, chief executive; Dan Ammann, president; and Chuck Stevens, chief financial officer.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/16/government-shutdown-trump-democrats-immigration"><b>Justice department asks supreme court to intervene in fight against Daca</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 21:07:56 GMT</p>
+        <p class="summary">Department asks high court for &#x27;direct review&#x27; of ruling that temporarily blocks Trump administration from phasing out DacaThe Department of Justice said on Tuesday it is appealing against a federal judge&#x27;s ruling that temporarily blocked the Trump administration from phasing out the Obama-era program granting protections to young, undocumented immigrants – and asking the supreme court to intervene.The department said it had filed an appeal in the ninth circuit court and intends to &quot;take the rare step&quot; later this week of seeking a fast track to the supreme court. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/va-hospital-aurora-gets-august-11-opening-date/"><b>VA hospital in Aurora gets August 11 opening date as thorny congressional hearing looms Wednesday</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:05:22 +0000</p>
+        <p class="summary">After years of delays, the U.S. Department of Veterans Affairs plans to open a new hospital in Aurora on Aug. 11 -- though the announcement on Tuesday is unlikely to spare the agency from criticism when several of its top officials appear Wednesday before Congress to talk about the troubled project.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/tv-and-radio/2018/jan/12/oprah-winfrey-unlikely-to-run-for-us-president-but-could-win-if-she-did"><b>Oprah Winfrey: from poverty to America&#x27;s first black billionaire … to #Oprah2020?</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Fri, 12 Jan 2018 14:15:05 GMT</p>
+        <p class="summary">Succeeding Donald Trump as US president would be an incredible climax to a true rags to riches life story that fostered her trademark compassionOprah Winfrey was four-and-a-half years old, maybe five, when she decided she wasn&#x27;t going to have the life expected of her. She was raised on a small Mississippi farm by her grandmother, whose highest hope for her granddaughter was that when she became someone&#x27;s domestic worker, she would be treated kindly by her employers. &quot;I just hope you get some good white folks when you grow up, treat you right, treat you nice,&quot; Winfrey said her grandmother told her.This week, there has been fevered speculation that Winfrey might run for president of the US. And that she might win – one poll found 48% of US voters would choose Winfrey, with 38% voting for Trump. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/steve-bannon-questioned-house-panel/"><b>House panel wants Steve Bannon to explain Comey firing, AP source says</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 21:40:13 +0000</p>
+        <p class="summary">A House panel questioned Steve Bannon on Tuesday, aiming to find out President Donald Trump&#x27;s thinking when he fired FBI Director James Comey, according to a person familiar with what the panel was planning to ask the former White House chief strategist.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/16/steve-bannon-house-russia-trump"><b>Steve Bannon subpoenaed to testify in Mueller&#x27;s Russia investigation – report</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:25:05 GMT</p>
+        <p class="summary">Bannon reportedly summoned by Mueller to go before grand juryTrump aide speaks to House intelligence committee on TuesdayFire and Fury: Inside the Trump White House – tell-all burns allThe House intelligence committee on Tuesday questioned Steve Bannon, the one-time confidant to Donald Trump. The New York Times reported, meanwhile, that Bannon has been subpoenaed by the special counsel, Robert Mueller, as part of his investigation into Russian meddling in the 2016 election.  </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JgbQfzfS8vE/index.html"><b>Newsflash: Donald Trump isn&#x27;t losing it</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:20:53 GMT</p>
+        <p class="summary">NEWSFLASH: Donald Trump is perfectly mentally capable of being president and is suffering from no cognitive impairment or decline.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/commentisfree/2018/jan/13/american-democracy-peril-trump-power"><b>If authoritarianism is looming in the US – how come Donald Trump looks so weak? | Corey Robin</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 10:00:02 GMT</p>
+        <p class="summary">There&#x27;s little doubt that Trump&#x27;s regime is a cause for concern. But fears about authoritarianism in the US ignore political realitiesIn the last several weeks, there&#x27;s been an uptick in the Trump authoritarianism talk. Matt Yglesias kicked it off the day after Christmas, claiming that Trump had &quot;consolidated power over the institutional Republican party&quot; and was now organizing &quot;an authoritarian regime&quot;.The New Year brought an article (&quot;2018 Will Be a Fight to Save Democracy&quot;) and a tweet from Jonathan Chait: &quot;I read &#x27;How Democracies Die.&#x27; It convinced me our democracy is more precarious than it looks.&quot; </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RA8rXjwa9JA/index.html"><b>North Korea rips &#x27;lunatic&#x27; Trump as US moves B-52 bombers to Guam</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:26:11 GMT</p>
+        <p class="summary">The US Air Force has deployed six nuclear-capable B-52 Stratofortress bombers to Guam, according to US Pacific Air Forces, adding more firepower to the region just hours after North Korean state media mocked President Donald Trump&#x27;s tweet referencing the size of his nuclear button as the &quot;spasm of a lunatic.&quot;
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/02/trump-to-north-korean-leader-kim-my-nuclear-button-is-much-bigger-more-powerful/"><b>Trump to North Korean leader Kim: My &#x27;Nuclear Button&#x27; is &#x27;much bigger &amp; more powerful&#x27;</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 03 Jan 2018 02:02:23 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump escalated his war of words with North Korean leader Kim Jong Un on Tuesday evening, asserting that his &quot;nuclear button&quot; is &quot;much bigger &amp;#38; more powerful&quot; than the North Korean leader&#x27;s and threatening that the U.S. arsenal &quot;works.&quot; Trump was responding to Kim&#x27;s annual New Year&#x27;s Day speech on Monday, during which the North Korean leader boasted [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/trump-administration-daca-appeal-supreme-court.html?partner=rss&emc=rss"><b>Justice Dept., Fighting to Kill DACA, Asks for Supreme Court Review</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 21:06:53 GMT</p>
+        <p class="summary">Demonstrations in support of the program that shields young immigrants from deportation at the Russell Senate Office Building in Washington on Tuesday.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/12/are-you-racist-trump-questioned-over-shithole-comments-video"><b>&#x27;Are you a racist?&#x27; Trump questioned over &#x27;shithole&#x27; comments </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Fri, 12 Jan 2018 18:02:26 GMT</p>
+        <p class="summary">Donald Trump ignores questions from reporters after signing a Martin Luther King Jr Day proclamation, amid reports he called a number of African countries &#x27;shitholes&#x27; during a meeting earlier in the week. Journalists call out to the US president as he leaves the room, asking &#x27;Are you a racist?&#x27; and &#x27;Will you give an apology?&#x27; </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-5697e484/turbine/la-me-pol-ca-new-assembly-speaker-endorses-kamala-harris-for-senate-20160114/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-pol-ca-new-assembly-speaker-endorses-kamala-harris-for-senate-20160114-story.html"><b>Incoming Assembly speaker endorses Kamala Harris for Senate</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Thu, 14 Jan 2016 10:29:00 PST</p>
+        <p class="summary">Incoming Assembly Speaker Anthony Rendon (D-Lakewood), who is set to become one of California&#x27;s most powerful Latino politicians, on Thursday endorsed state Atty. Gen. Kamala Harris for U.S. Senate. His backing could aid Harris&#x27; efforts to court Latino voters while undercutting their support for...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-57326d76/turbine/la-me-ln-donald-trump-white-nationalist-delegate-20160510/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-donald-trump-white-nationalist-delegate-20160510-story.html"><b>A white nationalist is among Donald Trump&#x27;s pledged delegates in California</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Tue, 10 May 2016 21:26:00 PDT</p>
+        <p class="summary">A Los Angeles attorney who advocates for the creation of a &quot;white ethno-state&quot; is on an official list of Donald Trump&#x27;s Republican convention delegates published Monday night by state election officials. William Johnson, a self-described white separatist who is the chairman of the American Freedom...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2017/12/20/with-tax-bill-headed-to-his-desk-trump-and-his-cabinet-celebrate-a-middle-class-miracle/"><b>With tax bill headed to his desk, Trump and his Cabinet celebrate a &#x27;middle-class miracle&#x27;</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 20 Dec 2017 19:29:46 +0000</p>
+        <p class="summary">
+	
+	
+	In grand spirits with the Republican tax plan headed toward his desk, President Trump declared at the outset of a Cabinet meeting Wednesday that it would be &quot;one of celebration.&quot; It certainly lived up to the billing. Over the course of the first 20 minutes or so, which the media was allowed to witness, Trump [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/senate-vote-section-702-fisa-amendments-surveillance.html?partner=rss&emc=rss"><b>Senate, Rebuffing Privacy Concerns, Clears Path to Extend Surveillance Law</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:52:47 GMT</p>
+        <p class="summary">From left, Senators Steve Daines, Republican of Montana; Patrick Leahy, Democrat of Vermont; Ron Wyden, Democrat of Oregon; Rand Paul, Republican of Kentucky; and Elizabeth Warren, Democrat of Massachusetts; held a news conference on Tuesday to argue that a bill authorizing the National Security Agency&#x27;s warrantless surveillance program made insufficient changes to it.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/film/2018/jan/13/ben-rhodes-barack-obama-serenity"><b>Ben Rhodes: &#x27;Obama has a serenity that I don&#x27;t. I get more exercised&#x27;</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 09:00:01 GMT</p>
+        <p class="summary">He spent 10 years as Barack Obama&#x27;s right-hand man. As a new film puts him in the spotlight, he talks high-stakes diplomacy and the chaos of Trump&#x27;s White HouseIn his final foreign speech as president, Barack Obama spoke to a crowd in Athens. &quot;As you may have noticed,&quot; he said, &quot;the next American president and I could not be more different. But American democracy is bigger than any one person.&quot; More than a year on, with that proposition tested daily, Obama&#x27;s decision to make his last trip abroad to the birthplace of western democracy looks prescient.The person Obama turned to just before taking the stage was a trim man with thin, close-cropped hair and a furrowed brow who had been at his side on almost every foreign trip he made, and who helped write this and just about every other foreign policy speech the president delivered. Ben Rhodes, the longest-serving member of Obama&#x27;s foreign policy team, at the age of 40, has been a permanent fixture in his close orbit; inside the Obama camp, Rhodes was routinely said to be so close to the president that their minds had melded. </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/116BF/production/_99295317_gettyimages-542714930.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42711734"><b>Brexit: Conservatives urge &#x27;unity&#x27; ahead of EU bill vote</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:57:11 GMT</p>
+        <p class="summary">The government&#x27;s Brexit bill is expected to clear the Commons, but peers may then try to change it.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-58c4a10e/turbine/la-me-ln-ca-pol-issa-hunter-townhalls-20170311/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-ca-pol-issa-hunter-townhalls-20170311-story.html"><b>Reps. Issa and Hunter confronted by protesters at separate town halls</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Sat, 11 Mar 2017 14:45:00 PST</p>
+        <p class="summary">Congressmen Darrell Issa and Duncan Hunter were confronted by rowdy protesters Saturday at separate back-to-back town hall meetings. It was the first time the North County Republicans held forums with their constituents since Donald Trump became president, and in San Diego, like many parts of the...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/8FDF/production/_99613863_tuskebs.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-parliaments-42705081"><b>Donald Tusk on Brexit: &#x27;Our hearts are still open to you&#x27;</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:52:12 GMT</p>
+        <p class="summary">The European Council President says the UK could remain in the EU if there is &quot;a change of heart&quot;.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-GA3o8XORM/index.html"><b>Durbin: Trump admin &#x27;sandbagged&#x27; him on immigration deal</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 18:49:54 GMT</p>
+        <p class="summary">Sen. Dick Durbin says was he was &quot;sandbagged&quot; on a bipartisan immigration deal by President Donald Trump and his team when it was presented to the White House last week.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578247175/after-several-chaotic-days-where-does-daca-deal-stand?utm_medium=RSS&utm_campaign=politics"><b>After Several Chaotic Days, Where Does DACA Deal Stand?</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 05:00:00 -0500</p>
+        <p class="summary">Lawmakers and President Trump are returning to town after prospects for an immigration deal dimmed at the end of last week. Congress also faces a Friday deadline to avert a government shutdown.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/13/steve-bannon-donald-trump-breitbart-fire-fury-roger-stone"><b>How Bannon turned on Trump … and where the nationalist right goes next</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 15:43:19 GMT</p>
+        <p class="summary">The ex-White House strategist who turned his fire and fury on the president is now out at Breitbart too. Those in the know, though, say he isn&#x27;t finished yetAfter Bannon: the new faces of the hard rightA snow shower had left Washington speckled in white. Steve Bannon, known for his shabby dress code, entered the five-star Hay-Adams hotel, a short walk from the White House, and delivered a speech to what one observer later dismissively called &quot;swamp denizens&quot;. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bd-S6-GhOD4/index.html"><b>Will 2020 contenders put Democrats in a bind on DACA?</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:52:10 GMT</p>
+        <p class="summary">As battles over immigration and government spending advance with no solution in sight, Senate Democrats are being forced to decide whether they&#x27;d support a short-term measure to avert a government shutdown -- even if it doesn&#x27;t include protections for the hundreds of thousands of undocumented immigrants brought into the United States as children.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/mitt-romney-senate-seat-run/"><b>Mitt Romney declines to say whether he&#x27;d run for Utah Senate seat</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:39:54 +0000</p>
+        <p class="summary">Former Republican presidential candidate Mitt Romney declined to say Tuesday whether he would run for the Utah Senate seat being vacated by Republican Orrin Hatch, telling reporters the &quot;time will come&quot; for him to make some kind of announcement.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2017/dec/21/the-moment-the-un-votes-to-reject-trumps-position-on-jerusalem-video"><b>The moment the UN votes to reject Trump&#x27;s position on Jerusalem </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Thu, 21 Dec 2017 18:11:54 GMT</p>
+        <p class="summary">The United Nations general assembly votes on a resolution denouncing Donald Trump&#x27;s recognition of Jerusalem as the capital of Israel. The resolution passes by a resounding majority, with just nine countries - including the US and Israel - voting against it. Members of the general assembly break into a round of applause when the result is announcedUN votes resoundingly to reject Trump&#x27;s recognition of Jerusalem as capital </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/6E8B/production/_99599282_mediaitem99597481.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42688288"><b>Momentum founder Jon Lansman voted on to Labour&#x27;s NEC</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 13:05:31 GMT</p>
+        <p class="summary">Jon Lansman is among three new members of the party&#x27;s governing body - as Eddie Izzard loses out.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/8980/production/_99600253_carillionpa1.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/business-42710795"><b>Carillion was left with just £29m before going bankrupt</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 20:02:01 GMT</p>
+        <p class="summary">Carillion held rescue talks with the government since October in a bid to stave off collapse, says boss.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NwXORX3ubjI/index.html"><b>Lindsey Graham hits White House, says immigration fight a &#x27;s-show&#x27;</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:48:18 GMT</p>
+        <p class="summary">Sen. Lindsey Graham blasted President Donald Trump&#x27;s staff over their reaction to a bipartisan immigration deal, saying they have not served the President well and some have &quot;an irrational view.&quot;
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/03/former-dhs-secretaries-chertoff-napolitano-and-johnson-warn-trump-over-dreamers-deadline/"><b>Former DHS secretaries Chertoff, Napolitano and Johnson warn Congress over &#x27;dreamers&#x27; deadline</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 03 Jan 2018 16:10:10 +0000</p>
+        <p class="summary">
+	
+	
+	A trio of bipartisan former Homeland Security secretaries is warning Congress that time is quickly running out for a legislative solution to protect nearly 700,000 young undocumented immigrants known as &quot;dreamers&quot; from possible deportation. President Trump has set a March 5 deadline for Congress to act before the bulk of work permits provided under an [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578469226/dr-ronny-jackson-the-white-house-doctor-who-gave-trump-a-clean-bill-of-health?utm_medium=RSS&utm_campaign=politics"><b>Ronny Jackson: The White House Doctor Who Gave Trump A Clean Bill Of Health</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 19:16:28 -0500</p>
+        <p class="summary">The Navy rear admiral found himself in the spotlight Tuesday as he offered a folksy and authoritative update on the president&#x27;s physical exam.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/sections/thetwo-way/2018/01/16/578404041/doj-plans-to-ask-the-supreme-court-to-intervene-on-daca?utm_medium=RSS&utm_campaign=politics"><b>DOJ Plans To Ask The Supreme Court To Intervene On DACA</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:29:44 -0500</p>
+        <p class="summary">Attorney General Jeff Sessions wants the high court to reverse  a decision out of California forcing the government to resume accepting DACA applications. He said the ruling defies common sense.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56c366f6/turbine/la-pol-ca-kamala-harris-supreme-court-20160216-thumbnail/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-ca-kamala-harris-supreme-court-20160216-story.html"><b>Supreme Court speculation about Kamala Harris shadows Senate bid</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Tue, 16 Feb 2016 12:25:00 PST</p>
+        <p class="summary">Speculation that California Atty. Gen. Kamala D. Harris could be on President Obama&#x27;s short list of possible nominees to the U.S. Supreme Court has reached a fever pitch — but don&#x27;t fit her for a robe just yet. The talk that Harris — simultaneously the first woman and African American to be elected...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/14BD7/production/_99615948_mediaitem99615946.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42702065"><b>Donald Tusk: EU&#x27;s &#x27;heart still open to UK&#x27; over Brexit</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:11:28 GMT</p>
+        <p class="summary">The EU&#x27;s &quot;heart is still open to the UK&quot; staying in, European Council President Donald Tusk says.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/07/white-house-adviser-stephen-miller-calls-bannon-an-angry-vindictive-person-over-comments-in-wolff-book/"><b>White House adviser Stephen Miller calls Bannon an &#x27;angry, vindictive person&#x27; over comments in Wolff book</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Sun, 07 Jan 2018 15:08:12 +0000</p>
+        <p class="summary">
+	
+	
+	Stephen Miller, President Trump&#x27;s top policy adviser, on Sunday eviscerated former White House colleague Stephen K. Bannon over comments attributed to him in a new book, calling him an &quot;angry, vindictive person&quot; whose &quot;grotesque comments are so out of touch with reality.&quot; Miller said the &quot;whole White House staff is deeply disappointed in his comments&quot; in [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mYZdDC_w_zk/index.html"><b>GOP lawmaker: Bannon issue is whether executive privilege can be invoked for transition</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:26:47 GMT</p>
+        <p class="summary">Florida Rep. Tom Rooney, a senior Republican on the House Intelligence Committee, said Tuesday that Steve Bannon&#x27;s testimony is running into problems over whether he can invoke executive privilege for events that occurred during the transition.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/commentisfree/2018/jan/13/trump-europe-cues-america-feminists"><b>Even in the age of Trump, Europe still takes its cues from America | Natalie Nougayrède</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 06:00:50 GMT</p>
+        <p class="summary">Yes, French and US feminists are different. But talk of a gulf between our continents is overdoneEurope&#x27;s Americanisation is ongoing. That may well sound paradoxical. So many transatlantic gaps have appeared in the age of Trump. This American president repels many Europeans, and in unprecedented ways. Many on the old continent seek solace in the contrast: perhaps Europe&#x27;s hour could be on the horizon? But it&#x27;s striking how European debates on issues such as racism and feminism are now so strongly influenced by movements across the Atlantic. In the realm of ideas and campaigning, Europe and the US are drawing closer, not sliding further apart. </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-568b267b/turbine/la-pol-sac-aid-in-dying-referendum-fail/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-sac-aid-in-dying-referendum-fail-story.html"><b>Opponents of California&#x27;s aid-in-dying law come up short</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Mon, 4 Jan 2016 18:19:00 PST</p>
+        <p class="summary">Opponents of California&#x27;s new aid-in-dying law said Monday that they were unable to collect the signatures needed for a November ballot referendum seeking to overturn the measure. The law, which allows physicians in California to prescribe lethal doses of drugs to terminally ill patients, was opposed...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56c3878a/turbine/la-pol-ca-kamala-harris-no-supreme-court-20160216/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-ca-kamala-harris-no-supreme-court-20160216-story.html"><b>Kamala Harris: &#x27;I do not wish to be considered&#x27; for the Supreme Court</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Tue, 16 Feb 2016 17:55:00 PST</p>
+        <p class="summary">California Atty. Gen. Kamala Harris on Tuesday doused speculation that she may be on President Obama&#x27;s list of potential Supreme Court nominees, saying during a campaign event at a San Jose union hall that while she is flattered to have her name mentioned, she has no interest. Harris, 51, said...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ygnxpBfvYBs/index.html"><b>Democrats are letting Republicans fundamentally reframe the immigration debate</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:22:06 GMT</p>
+        <p class="summary">When Democratic Sen. Dick Durbin first emerged from that now-infamous White House immigration meeting last week, his bipartisan bill cut down on sight by President Donald Trump, he conceded the obvious: Democrats were, at last, on the ropes.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578309566/manafort-case-drags-as-judge-puzzles-over-legal-positions?utm_medium=RSS&utm_campaign=politics"><b>Manafort Case Drags As Judge Puzzles Over Legal Positions</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:52:41 -0500</p>
+        <p class="summary">President Trump&#x27;s former campaign chairman Paul Manafort may not face trial until fall. The judge in his case says she&#x27;s befuddled about some of his arguments in the case.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/1144B/production/_99613707_mediaitem99613706.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42702061"><b>Brexit: EU &#x27;tightens transition guidelines&#x27; on immigration, trade and fishing</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:09:52 GMT</p>
+        <p class="summary">Language on immigration, trade and fishing is toughened up in guidelines for second-stage talks.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRT33pGXzBI/index.html"><b>The Point: Sen. Orrin Hatch&#x27;s invisible glasses show he&#x27;s super hip, and/or just human</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:10:17 GMT</p>
+        <p class="summary">Orrin Hatch is the coolest guy in the Senate, or so his uber hip press shop would like you to think. The octogenarian senator from Utah -- who announced he will not be seeking re-election -- lit up Twitter after reaching up to take off glasses that he wasn&#x27;t actually wearing.
+    
+</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-572d1467/turbine/la-me-ln-donald-trump-university-fraud-20160506/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-donald-trump-university-fraud-20160506-story.html"><b>Donald Trump to testify in Trump University fraud lawsuit - after the election</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Fri, 6 May 2016 21:28:00 PDT</p>
+        <p class="summary">Citing concern Friday that a &quot;media frenzy&quot; would ensue if a trial were held before the November presidential election, the judge overseeing a class-action lawsuit against Donald Trump over a real estate &quot;university&quot; accused of defrauding students scheduled a late November date for the years-old...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-5724df41/turbine/la-me-ln-latino-activists-vow-more-trump-protests-20160430/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-latino-activists-vow-more-trump-protests-20160430-story.html"><b>Latino activists vow more Trump protests as tensions heighten</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Sat, 30 Apr 2016 09:40:00 PDT</p>
+        <p class="summary">Latino activists said they expect more large protests as Donald Trump moves his presidential campaign into California. Trump faced large and hostile demonstrations outside a rally Thursday night in Costa Mesa and at the Burlingame hotel where he delivered a speech to the California Republican Convention...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/north-korea-trump-nuclear-button-tweet/"><b>North Korea calls Trump a &quot;lunatic&quot; and a &quot;loser&quot; in response to nuclear button tweet</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 14:15:20 +0000</p>
+        <p class="summary">North Korea&#x27;s official news agency responded Tuesday to President Donald Trump&#x27;s controversial &quot;nuclear button tweet,&quot; describing it as the &quot;the spasm of a lunatic,&quot; according to AP.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56b5cc04/turbine/la-me-ln-california-earthquake-early-warning-20160206/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-california-earthquake-early-warning-20160206-story.html"><b>California should help pay for earthquake early warnings, state lawmakers say</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Sat, 6 Feb 2016 05:00:00 PST</p>
+        <p class="summary">Hours after a magnitude 6.4 earthquake destroyed buildings and took lives in Taiwan, four state lawmakers said they want California to help fund an earthquake early warning system that has been stalled by a lack of money. &quot;There&#x27;s no valid reason not to make this relatively small investment in...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2017/12/22/trump-signs-sweeping-tax-bill-into-law/"><b>Trump signs sweeping tax bill into law</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Fri, 22 Dec 2017 16:32:08 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump on Friday signed the most significant overhaul of the U.S. tax code in 30 years, delivering on a pledge to finish work on the long-standing Republican priority by Christmas. Trump signed the $1.5 trillion measure in the Oval Office shortly before he was scheduled to head to his Mar-a-Lago resort in Florida for [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/books/2018/jan/15/fire-and-fury-inside-the-trump-white-house-by-michael-wolff-digested-read"><b>Fire and Fury: Inside the Trump White House by Michael Wolff – digested read</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 07:00:49 GMT</p>
+        <p class="summary">&#x27;On election night, Melania wept with despair. Now I&#x27;ll have to stay with the creep for another four years, she sobbed&#x27;On a snowy January evening in 2017, disgraced head of Fox News Roger Ailes and Donald Trump&#x27;s right-hand man Steve Bannon met for dinner in a New York brownstone. &quot;We&#x27;ve got a problem,&quot; said Bannon. &quot;Trump doesn&#x27;t get it. He doesn&#x27;t realise the bad guys are the bad guys.&quot;&quot;There&#x27;s only one thing for it,&quot; replied Ailes. &quot;We&#x27;ve got to bring in Michael Wolff to write a book about him. He can be relied on to be as unreliable as the Donald. Hopefully, no one will believe a word.&quot; </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56c90c1b/turbine/la-pol-ca-marijuana-legalization-california-ballot-20160222/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-ca-marijuana-legalization-california-ballot-20160222-story.html"><b>Only one of California&#x27;s pot legalization initiatives has the green that counts</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Mon, 22 Feb 2016 00:05:00 PST</p>
+        <p class="summary">Devout cannabis advocates and social justice reformers believe this may finally be the year that California voters legalize all marijuana, and that optimism has led to a mashup of proposed statewide ballot measures -- more than 20 filed so far. They vary from a one-sentence constitutional amendment...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/083E/production/_99601120_fly1.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-42689357"><b>Litter bug</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 17:56:20 GMT</p>
+        <p class="summary">The government has proposed new measures to tackle fly-tipping. Is it a growing problem?</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-569814f5/turbine/la-pol-sac-jerry-brown-water-plan-delta-tunnels-20160114/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-sac-jerry-brown-water-plan-delta-tunnels-20160114-story.html"><b>Brown defends delta tunnels as he rolls out tweaks to water plan</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Thu, 14 Jan 2016 16:15:00 PST</p>
+        <p class="summary">Gov. Jerry Brown warned Thursday that if his multibillion-dollar delta tunnels project fails to move forward, it would deal a &quot;body blow&quot; to California&#x27;s economy and prosperity. Hoping to combat the idea that building the massive tunnels is simply a water-grab that would benefit Southern California,...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T9ON11aY6Oc/index.html"><b>Trump meets with GOP Haitian-American congresswoman amid fallout from obscene remarks</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:32:11 GMT</p>
+        <p class="summary">Republican Rep. Mia Love discussed immigration with President Donald Trump in the Oval Office for half an hour Tuesday, just two days after she said she believed the President made racist remarks about Haitians during a meeting with lawmakers.
+    
+</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-572222c5/turbine/la-me-ln-democrats-donald-trump-rally-20160428-thumbnail/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-democrats-donald-trump-rally-20160428-story.html"><b>Citing &#x27;racism&#x27; and &#x27;sexism,&#x27; Democrats plan protest at Donald Trump rally in Orange County</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Thu, 28 Apr 2016 07:14:00 PDT</p>
+        <p class="summary">Donald Trump&#x27;s rally Thursday evening in Costa Mesa is expected to draw loyalists as well as protesters. The rally comes two days after backers and opponents of Trump clashed outside Anaheim City Hall before the City Council voted on a resolution condemning the presidential candidate and GOP front-runner....</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/14/michael-wolff-interview-fire-and-fury-donald-trump"><b>&#x27;It&#x27;s all explosive&#x27;: Michael Wolff on Donald Trump</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sun, 14 Jan 2018 22:30:39 GMT</p>
+        <p class="summary">Speaking to the Guardian, author who shook the White House faces down critical fire and presidential fury and says: &#x27;I got to a truth no one else has gotten&#x27; A dinner of clams and Arctic char at Michael Wolff&#x27;s Greenwich Village home set the stage for a book that – in the author&#x27;s own estimation – has become &quot;an international political event&quot;.Among the guests were former chairman of Fox News Roger Ailes, expelled from the Murdoch empire over claims of sexual harassment and about to retire to Palm Beach, and Steve Bannon, the would-be inheritor of Ailes&#x27; rightwing political media crown who barely six weeks earlier had orchestrated Donald Trump&#x27;s improbable election victory. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2017/dec/21/us-slams-un-jerusalem-vote-we-will-remember-this-video"><b>&#x27;We will remember this&#x27;: US slams UN Jerusalem vote </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Thu, 21 Dec 2017 17:47:57 GMT</p>
+        <p class="summary">The US ambassador to the UN, Nikki Haley, speaks at an emergency session of the general assembly ahead of a vote criticising Donald Trump&#x27;s recognition of Jerusalem as the capital of Israel. Haley warns those countries voting in favour of the resolution that &#x27;the United States will remember this day&#x27; when other nations call on the US to &#x27;use our influence for their benefit&#x27;UN votes resoundingly to reject Trump&#x27;s recognition of Jerusalem as capital </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2017/12/15/pences-middle-east-trip-will-now-focus-heavily-on-smoothing-things-over-with-egypt/"><b>Pence&#x27;s Middle East trip will now focus heavily on smoothing things over with Egypt</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Fri, 15 Dec 2017 17:33:24 +0000</p>
+        <p class="summary">
+	
+	
+	When Vice President Pence travels to the Middle East next week, there is one message that the Trump administration wants to convey loud and clear: Egypt continues to be an &quot;incredibly important&quot; partner in the region. In a Friday morning phone call with reporters who will travel with Pence next week, senior administration officials kept [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/102E/production/_99524140_gettyimages-539057442.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-northern-ireland-politics-42608322"><b>Who&#x27;s in charge?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 09 Jan 2018 01:27:14 GMT</p>
+        <p class="summary">Twelve months after its power-sharing executive split, how are people there faring?</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578247224/report-trump-administrations-first-year-has-been-unethical?utm_medium=RSS&utm_campaign=politics"><b>Ethics Report On Trump Administration: The Most Unethical Presidency</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 05:00:00 -0500</p>
+        <p class="summary">Steve Inskeep talks to Richard Painter, top ethics lawyer for President George W. Bush, and Norman Eisen, top ethics lawyer for President Obama. They argue Trump&#x27;s administration has been unethical.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/08/pence-reschedules-middle-east-trip-for-late-january-adds-stop-in-jordan/"><b>Pence reschedules Middle East trip for late January, adds stop in Jordan</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Mon, 08 Jan 2018 16:36:35 +0000</p>
+        <p class="summary">
+	
+	
+	Vice President Pence&#x27;s office has announced new dates for his delayed trip to the Middle East: Jan. 19-23. Pence was originally scheduled to travel the week before Christmas, but postponed the trip so he could remain in Washington in case his vote was needed to pass tax legislation. At the time, White House aides insisted the [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/C0EF/production/_99619394_b94229d3-916b-4213-887b-68d85cff421e.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42708215"><b>Momentum&#x27;s Christine Shawcroft voted on to Labour disputes panel</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 18:52:31 GMT</p>
+        <p class="summary">It comes after Momentum strengthened its grip on Labour&#x27;s executive committee.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/05/california-marijuana-muddle-video-explainer"><b>California&#x27;s marijuana muddle  explainer</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Fri, 05 Jan 2018 17:04:53 GMT</p>
+        <p class="summary">On 1 January, California became the latest state to permit the sale of recreational marijuana in licensed stores. But three days later, the attorney general issued new guidance calling on states to enforce federal drug laws prohibiting the substance. Despite the confusion, the new shops have been doing brisk business </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56d00d5e/turbine/la-pol-ca-kamala-harris-loretta-sanchez-convention-20160226-thumbnail/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-ca-kamala-harris-loretta-sanchez-convention-20160226-story.html"><b>Winning the party endorsement is &#x27;like trying to win an Iowa caucus&#x27; ... but in California</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Fri, 26 Feb 2016 00:05:00 PST</p>
+        <p class="summary">Ray Bishop may just be a business consultant from Tarzana, but over the past few weeks California&#x27;s Democratic Senate candidates have lavished him with the attention usually reserved for a high-rolling Silicon Valley billionaires and deified political heavyweights. Bishop is among the more than...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/business/economy/tax-economy-survey.html?partner=rss&emc=rss"><b>Poll Finds Upturn in Sentiment on Tax Overhaul and Economy</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:22:02 GMT</p>
+        <p class="summary">The tax bill that President Trump signed last month remains relatively unpopular, although support for it has grown, according to a new survey conducted for The New York Times.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2017/11/07/578393988/democrats-celebrate-big-wins-in-new-jersey-and-virginia-elections?utm_medium=RSS&utm_campaign=politics"><b>Democrats Celebrate Big Wins In New Jersey And Virginia Elections</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 15:11:00 -0500</p>
+        <p class="summary">Democrats are celebrating wins in the two biggest races on election night 2017. The party will hold the governors&#x27; offices in New Jersey and Virginia.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-571f8d46/turbine/la-me-ln-how-home-of-disneyland-became-hostile-ground-for-donald-trump-20160426/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-how-home-of-disneyland-became-hostile-ground-for-donald-trump-20160426-story.html"><b>Donald Trump faces battleground in Disneyland&#x27;s hometown</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Tue, 26 Apr 2016 09:12:00 PDT</p>
+        <p class="summary">Anaheim is due to become an unlikely battleground Tuesday night in the debate over Donald Trump. The City Council will vote on a resolution condemning GOP presidential candidate Trump&#x27;s &quot;divisive rhetoric.&quot; Anaheim was once a Republican bastion, as was the much of the rest of Orange County. But...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/voviQiqJ-f4/index.html"><b>Durbin asserts Trump said &#x27;shithole countries,&#x27; disputing Republicans&#x27; account</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 18:49:39 GMT</p>
+        <p class="summary">Sen. Dick Durbin asserted Tuesday that President Donald Trump called certain African nations &quot;shithole countries&quot; during a bipartisan meeting on immigration reform at the White House last week, despite evolving explanations from some Republicans.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/17/democrat-senator-to-dhs-secretary-your-silence-is-complicity-video"><b>Democratic senator Cory Booker to DHS secretary: &#x27;Your silence is complicity&#x27; </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:09:11 GMT</p>
+        <p class="summary">Cory Booker castigates the US homeland security secretary Kirsten Nielsen for saying she couldn&#x27;t remember whether Donald Trump referred to some nations as &#x27;shithole&#x27; countries: &#x27;When ignorance and bigotry is allied with power, it is a dangerous force … your silence and your amnesia is complicity.&#x27;&amp;nbsp; </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/13FE0/production/_98388818_mediaitem98388817.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-32810887"><b>Brexit: All you need to know about the UK leaving the EU</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Thu, 04 Jan 2018 17:16:18 GMT</p>
+        <p class="summary">A guide to how the UK will leave the European Union after the 2016 referendum.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pALB2spq2Z8/index.html"><b>After unexpected scare, Senate overcomes filibuster and advances FISA extension bill</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:05:37 GMT</p>
+        <p class="summary">In a surprisingly close vote, the Senate advanced legislation Tuesday that would keep in place a key electronic surveillance tool the government says it needs to track terrorists, barely overcoming objections from a bipartisan group of civil libertarian-focused senators who wanted to add changes to the bill.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-19AYsBjgpQ/index.html"><b>Trump admin touts stats linking immigration to terror</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:48:22 GMT</p>
+        <p class="summary">The Trump administration released a new analysis Tuesday claiming that 73% of those convicted of &quot;international terrorism-related charges&quot; in US federal courts following the attacks on September 11, 2001, were &quot;foreign-born,&quot; attempting to draw a causal connection between hotly debated immigration policies disfavored by President Donald Trump and acts of terrorism.
+    
+</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/30CB/production/_99619421_p05v1hrk.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42708265"><b>Anna Soubry on new Boris Johnson Brexit bus NHS claims</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 15:33:11 GMT</p>
+        <p class="summary">People have been &quot;conned&quot; by claims on the side of a bus about extra money for the NHS, says Anna Soubry MP.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/video/2018/jan/14/chelsea-manning-releases-campaign-ad-for-us-senate-run-video"><b>Chelsea Manning releases campaign ad for US Senate run </b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sun, 14 Jan 2018 17:32:10 GMT</p>
+        <p class="summary">The former US army soldier who was imprisoned for passing information to WikiLeaks has released a campaign advert. Manning filed a request to run as a Democrat for a Senate seat in MarylandChelsea Manning files to run as Democrat for US Senate in Maryland </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/pentagon-nuclear-review-cyberattack-trump.html?partner=rss&emc=rss"><b>Pentagon Suggests Countering Devastating Cyberattacks With Nuclear Arms</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:07:27 GMT</p>
+        <p class="summary">The Nuclear Posture Review was written at the Pentagon and is being reviewed by the White House.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/04/mercer-issues-rare-public-rebuke-of-former-ally-bannon/"><b>Mercer issues rare public rebuke of former ally Bannon</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Thu, 04 Jan 2018 22:08:44 +0000</p>
+        <p class="summary">
+	
+	
+	Stephen K. Bannon&#x27;s main financial backer is formally cutting ties with the former Trump adviser. In a new statement Thursday, billionaire conservative donor Rebekah Mercer said that she has not spoken to Bannon, the former White House chief strategist, in many months and that she continues to support President Trump. &quot;I support President Trump and [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/cia-china-mole-arrest-jerry-chun-shing-lee.html?partner=rss&emc=rss"><b>Ex-C.I.A. Officer Suspected of Compromising Chinese Informants Is Arrested</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:08:18 GMT</p>
+        <p class="summary">China killed or imprisoned several C.I.A. informants in the country starting in 2010, unraveling the agency&#x27;s source network in a devastating setback for the C.I.A.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/banks-are-big-winners-from-tax-cut.html?partner=rss&emc=rss"><b>Banks Are Big Winners From Tax Cut</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:32:50 GMT</p>
+        <p class="summary">Big banks like J.P. Morgan are reporting short-term losses as a result of the tax bill but see long-term benefits, including stronger profits, from the overhaul.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/A2C6/production/_99607614_b90c5ede-0eff-4ea9-b3f1-ff878327e231.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42694061"><b>MPs&#x27; &#x27;grave concern&#x27; about returning Rohingya people</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 22:34:33 GMT</p>
+        <p class="summary">A committee warns about the plight of thousands of people being returned to Myanmar.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/16FE9/production/_99558149_hi002429262.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42654268"><b>How green are the Tories?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Thu, 11 Jan 2018 18:15:04 GMT</p>
+        <p class="summary">Theresa May&#x27;s environment policy pledge is the latest step in the party&#x27;s journey on the issue.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578422402/texas-rep-will-hurd-says-he-hopes-to-preserve-daca?utm_medium=RSS&utm_campaign=politics"><b>Texas Rep. Will Hurd Says He Hopes To Preserve DACA</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 16:34:00 -0500</p>
+        <p class="summary">NPR&#x27;s Ari Shapiro talks to Rep. Will Hurd, R-Texas, about the future of an immigration deal in Congress. Hurd says he hopes to preserve the Deferred Action for Childhood Arrivals program.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2018/01/16/60/60/serioust1.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/U9UvOc7lFbw/trump-cites-federal-report-on-foreign-born-terrorists-to-urge-immigration-reform.html"><b>Trump cites federal report on foreign-born terrorists to urge immigration reform</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:00:00 GMT</p>
+        <p class="summary">A new report released by the Department of Homeland Security and the Department of Justice shed light on the immigration debate after revealing that three out of four individuals convicted on international terrorism charges in the U.S. were foreign born.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/113B5/production/_99618507_gettyimages-487624274.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42707026"><b>Power shift?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 20:47:25 GMT</p>
+        <p class="summary">What Momentum&#x27;s election wins might mean for the future of the Labour Party.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56d285b2/turbine/la-pol-ca-democratic-party-endorsement-senate-race-20160227/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-ca-democratic-party-endorsement-senate-race-20160227-story.html"><b>Atty. Gen. Kamala Harris overwhelmingly wins state Democratic Party endorsement</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Sat, 27 Feb 2016 21:21:00 PST</p>
+        <p class="summary">Atty. Gen. Kamala Harris won the coveted California Democratic Party endorsement for U.S. Senate on Saturday, solidifying her status as the front-runner and delivering a setback to her top rival, Rep. Loretta Sanchez.  Harris captured 78.1% of the votes to earn the state Democrats&#x27; official seal...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GUEw7FkRRJ8/index.html"><b>New bill targets Russia, others for future election interference</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 12:30:18 GMT</p>
+        <p class="summary">Lawmakers are set to introduce a bill that would punish any nation that tries to influence a US election, adding extra sanctions against Russia if it once again tries to interfere.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/16/adult-film-star-reportedly-spoke-to-journalist-in-2016-about-trump-settlement-fearing-he-wouldnt-pay-up/"><b>Adult-film star reportedly spoke to journalist in 2016 about Trump settlement, fearing he wouldn&#x27;t pay up</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:04:07 +0000</p>
+        <p class="summary">
+	
+	
+	An adult-film star who was reportedly paid to remain silent about a sexual relationship with Donald Trump a decade before he became president spoke to a journalist because she feared he would not pay up, according to a new account. Stephanie Clifford, whose professional name is Stormy Daniels, spoke to the online magazine Slate multiple [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/business/economy/work-medicaid.html?partner=rss&emc=rss"><b>Economic Scene: Making Medicaid a Tool for Moral Education May Let Some Die</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 20:21:19 GMT</p>
+        <p class="summary">A medical examination at the Family Health Center in Louisville. Kentucky is the first state in the country to impose a work requirement on recipients of Medicaid.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2018/01/16/60/60/neilsen720.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/3dyMcndzSQQ/dhs-asked-prosecutors-to-consider-charging-sanctuary-city-leaders.html"><b>DHS asked prosecutors to consider charging sanctuary city leaders</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:45:00 GMT</p>
+        <p class="summary">The Department of Homeland Security has asked federal prosecutors to examine the possibility of bringing criminal charges against leaders of so-called sanctuary cities, Secretary Kirstjen Nielsen told lawmakers Tuesday.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578322466/did-a-foreign-power-interfere-in-the-election-new-bill-would-mandate-an-answer?utm_medium=RSS&utm_campaign=politics"><b>Did A Foreign Power Interfere In The Election? New Bill Would Mandate An Answer</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 12:31:00 -0500</p>
+        <p class="summary">Republican Sen. Marco Rubio and Democrat Sen. Chris Van Hollen are offering legislation that would require U.S. spy agencies to report about foreign interference in American elections.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/10/26/60/60/694940094001_5626284474001_5626273942001-vs.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/fyEuR6B2U4w/trump-doj-settles-with-true-vote-tea-party-group-targeted-by-obama-irs.html"><b>Trump DOJ settles with True the Vote, Tea Party group targeted by Obama IRS</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:00:00 GMT</p>
+        <p class="summary">The Trump administration, after years of litigation, settled a lawsuit Tuesday with yet another Tea Party group that claimed it was targeted unfairly by the IRS under the Obama administration.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-bernie-baby-dies-20160303-story.html"><b>&#x27;Bernie Baby&#x27; dies of sudden infant death syndrome</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Thu, 3 Mar 2016 16:09:00 PST</p>
+        <p class="summary">Bernie Baby, the cheerful boy who won the affections of people of all political stripes after his mom posted photos on social media of him greeting Democratic presidential candidate Bernie Sanders in a lookalike white-haired wig, oversized glasses and plaid tie, has died of sudden infant death...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56b162c5/turbine/la-me-ln-earthquake-early-warning-20160202/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-earthquake-early-warning-20160202-story.html"><b>Quake early warning system gets $3.6 million, but it&#x27;s still a long way from goal</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Wed, 3 Feb 2016 03:30:00 PST</p>
+        <p class="summary">With officials still struggling to find money to create an earthquake early warning system for the West Coast, a private foundation, Intel Corp. and an arm of Amazon.com Inc. said they will pitch in money or other support, officials said at a White House summit Tuesday. But there&#x27;s still not enough...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPN0ZtRJQRg/index.html"><b>Missouri Republican legislators call on embattled GOP governor to resign</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:21:10 GMT</p>
+        <p class="summary">A number of Republican state lawmakers issued blistering calls Tuesday for Gov. Eric Greitens to step down, a sign of mounting pressure on the embattled governor in the aftermath of allegations that he had blackmailed a woman he had an affair with.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/national-park-service-advisory-panel-resigns/"><b>Nearly all members of National Park Service advisory panel resign in frustration</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:47:20 +0000</p>
+        <p class="summary">Three-quarters of the members of a federally chartered board advising the National Park Service abruptly quit Monday night out of frustration that Interior Secretary Ryan Zinke had refused to meet with them or convene a single meeting last year.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/us-palestinian-aid-refugee-un.html?partner=rss&emc=rss"><b>U.S. Withholds $65 Million From U.N. Relief Agency for Palestinians</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:56:24 GMT</p>
+        <p class="summary">Palestinians received food aid at a United Nations Relief and Works Agency warehouse at a refugee camp in Gaza City this month.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://the1a.org/shows/2018-01-16/elegies-and-effigies-who-speaks-for-appalachia?utm_medium=RSS&utm_campaign=politics"><b>Elegies And Effigies: Who Speaks For Appalachia?</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:06:30 -0500</p>
+        <p class="summary">It&#x27;s been called Trump Country, coal country and backcountry. But it&#x27;s our country.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/0741/production/_99575810_gettyimages-883448012.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/business-42666275"><b>Carillion&#x27;s woes</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 09:52:40 GMT</p>
+        <p class="summary">The construction firm is to be liquidated after its huge financial troubles finally overwhelmed it.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/va-says-it-wont-study-medical-marijuanas-effect-on-veterans/"><b>VA says it won&#x27;t study medical marijuana&#x27;s effect on veterans</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:55:11 +0000</p>
+        <p class="summary">The Department of Veterans Affairs says it will not conduct research into whether medical marijuana could help veterans suffering from post-traumatic stress disorder and chronic pain.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56c68683/turbine/la-pol-ca-cop-records/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-ca-cop-records-story.html"><b>Lawmaker proposes giving public access to police shooting and misconduct cases</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Fri, 19 Feb 2016 11:57:00 PST</p>
+        <p class="summary">Investigative files involving police shootings and sustained misconduct by officers would be made public under legislation proposed Friday to lift the veil of secrecy and restore public confidence in law enforcement. State Sen. Mark Leno (D-San Francisco) proposed the change to bring California...</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/government-shutdown-immigration-childrens-health.html?partner=rss&emc=rss"><b>G.O.P. Weighs Children&#x27;s Health Insurance as Lure for Averting Shutdown</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 01:18:12 GMT</p>
+        <p class="summary">A doctor examining Christopher Serrano, a 10-year-old who is covered by the Children&#x27;s Health Insurance Program, at Dell Children&#x27;s Medical Center in Austin, Tex., this month.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2018/01/11/60/60/unrwa.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/U-VefW0YPEc/trump-administration-withholds-funding-for-un-palestinian-refugee-agency.html"><b>Trump administration withholds funding for UN Palestinian refugee agency</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:45:00 GMT</p>
+        <p class="summary">The Trump administration announced Tuesday that it has withheld funding for a controversial U.N. refugee agency for Palestinians -- but hasn&#x27;t cut funding to the organization completely.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/commentisfree/2018/jan/15/martin-luther-king-jr-legacy-politicians-hypocrisy"><b>If Martin Luther King Jr were alive today, politicians would denounce him | Steven W Thrasher</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 11:00:01 GMT</p>
+        <p class="summary">Modern day Republicans and Democrats often speak as if they love King, even as they excoriate the real heirs to his legacy Today is the day when many American politicians pretend to care about the life and legacy of Martin Luther King Jr, one of the wisest souls who attempted to save this sorry nation. Don&#x27;t fall for their scams. While King did care about black and/or poor people in the United States and around the world, he was no American exceptionalist. &quot;Don&#x27;t let anybody make you think God chose America as His divine messianic force to be a sort of policeman of the whole world,&quot; King once said.  </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/13E53/production/_99619418_p05v1hnx.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42708264"><b>Should private or public firms run public services?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 15:33:31 GMT</p>
+        <p class="summary">The moodbox, an unscientific test with a box and balls, is used to find out what the man and woman in the street think of the public and private sectors.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56c01802/turbine/la-me-ln-scalia-death-teachers-unions-20160214/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-scalia-death-teachers-unions-20160214-story.html"><b>How Scalia&#x27;s death may save teachers unions -- for now</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Sun, 14 Feb 2016 19:10:00 PST</p>
+        <p class="summary">The death of Supreme Court Justice Antonin Scalia could deal a major blow to a California lawsuit that had been widely expected to weaken the financial muscle of teachers unions across the country. In Friedrichs vs. California Teachers Assn., many court watchers had expected Scalia to deliver the...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/D702/production/_99624055_mediaitem99624053.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42712180"><b>Tory MP Ben Bradley &#x27;sorry&#x27; for blog post about jobless</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:13:43 GMT</p>
+        <p class="summary">In 2012 Ben Bradley&#x27;s blog post criticised what he called a &quot;vast sea of unemployed wasters&quot;.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/03B6/production/_99305900_students.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/education-42431780"><b>Scholarly replies</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 09 Jan 2018 12:41:42 GMT</p>
+        <p class="summary">The replies universities sent to Tory MP Chris Heaton-Harris&#x27;s letter about their Brexit research were more varied than the initial outcry suggested.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56c67e36/turbine/la-pol-sac-gavin-newsom-gun-initiative-opposition-20160219/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-sac-gavin-newsom-gun-initiative-opposition-20160219-story.html"><b>Opposition campaign launched against Gavin Newsom&#x27;s gun control initiative</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Fri, 19 Feb 2016 03:04:00 PST</p>
+        <p class="summary">A new campaign opposing Lt. Gov. Gavin Newsom&#x27;s proposed ballot initiative to toughen California&#x27;s gun laws accuses the Democrat of &quot;shamelessly exploiting&quot; the San Bernardino terrorist attacks to win support for the measure and advance his own campaign for governor. The California Rifle &amp; Pistol...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56e374a3/turbine/la-pol-sac-governor-brown-aide-20160311/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-pol-sac-governor-brown-aide-20160311-story.html"><b>Consumer group files formal complaint of conflict against Gov. Jerry Brown&#x27;s top aide</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Fri, 11 Mar 2016 18:47:00 PST</p>
+        <p class="summary">A consumer advocates group filed a complaint Friday with the state&#x27;s ethics agency seeking an investigation into whether a top aide to Gov. Jerry Brown influenced appointments to the state Public Utilities Commission while she owned stock in Pacific Gas &amp; Electric Co., which was seeking utility-friendly...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/www.foxnews.com/content/dam/fox-news/images/2018/01/16/60/60/amossinema.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/W6WVb7M9iLQ/new-york-man-arrested-for-allegedly-stalking-arizona-rep-kyrsten-sinema.html"><b>New York man arrested for allegedly stalking Arizona Rep. Kyrsten Sinema</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:48:00 GMT</p>
+        <p class="summary">A New York man has been arrested by U.S. Capitol Police for allegedly stalking Arizona Representative and Senate candidate Kyrsten Sinema.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VFNZ7TCuXf8/index.html"><b>Why Trump voters need the immigrants they want to turn away</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:26:11 GMT</p>
+        <p class="summary">
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/membership/2018/jan/13/new-years-revolutions-stories-hopes-2018"><b>New year&#x27;s revolutions: the stories we&#x27;re hoping to cover in 2018</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 14:56:15 GMT</p>
+        <p class="summary">Guardian journalists tell us what they hope to cover in the year ahead and whyEvery January I start out with a wish list. It tends not to change hugely from year to year because many of my dream interviews are not easy to get hold of. Robert and Grace Mugabe, Vladimir Putin, Kim Jong-un, if you are reading this and fancy spending quality time with me this year, give me a bell (or answer my emails). </p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/16563/production/_99619419_p05v1hy9.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42708263"><b>How Belgium, Germany, Iraq, Somalia, US and Antarctica cope</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 15:32:08 GMT</p>
+        <p class="summary">Looking at how countries, or less defined areas, can function without an elected government.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578247210/trump-adviser-backs-shift-to-merit-based-immigration?utm_medium=RSS&utm_campaign=politics"><b>Trump Adviser Krikorian Backs Shift To Merit-Based Immigration</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 05:00:00 -0500</p>
+        <p class="summary">Steve Inskeep talks to Mark Krikorian, a conservative immigration activist who advocates for stricter immigration limits and a merit-based immigration system.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/10/vice-president-pence-will-lead-u-s-delegation-to-olympics-in-south-korea/"><b>Vice President Pence will lead U.S. delegation to Olympics in South Korea</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Wed, 10 Jan 2018 17:31:43 +0000</p>
+        <p class="summary">
+	
+	
+	President Trump informed South Korean President Moon Jae-in that Vice President Pence would attend the games in PyeongChang. Moon provided an update on recent talks between South Korea and North Korea, a White House statement said. &quot;The two leaders underscored the importance of continuing the maximum pressure campaign against North Korea. President Trump expressed his openness [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56e1e981/turbine/la-me-report-bad-convictions-cost-california-millions-20160310/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-report-bad-convictions-cost-california-millions-20160310-story.html"><b>Bad convictions have cost California millions of dollars, report says</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Thu, 10 Mar 2016 22:19:00 PST</p>
+        <p class="summary">A study of more than 600 overturned felony convictions in California calculates the cost of those botched cases to taxpayers at more than $220 million over two decades.The effort to put a price on prosecutorial misconduct, errant judicial rulings and forensic lab mistakes was undertaken by the...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/6400/production/_99600652_p05tw0q2.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42691367"><b>Women and voting: Suffragist Millicent Fawcett</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 11:51:28 GMT</p>
+        <p class="summary">A look at the life of suffragist Millicent Fawcett in the 100th anniversary year of women winning the vote.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N7lSW_Wmu_M/index.html"><b>Trump tweeted his black approval rating has doubled. It hasn&#x27;t.</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:07:16 GMT</p>
+        <p class="summary">President Donald Trump bragged on Twitter that his approval rating with black Americans has doubled. It hasn&#x27;t.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/15/on-mlk-day-president-trump-visits-trump-golf-course/"><b>On MLK Day, President Trump visits Trump golf course</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 19:35:25 +0000</p>
+        <p class="summary">
+	
+	
+	WEST PALM BEACH, Fla. — President Trump&#x27;s first stop Monday was Trump International Golf Club, apparently beginning the Martin Luther King Jr. holiday with golf rather than the charitable service the slain civil rights leader&#x27;s family has urged as the best way to memorialize him. The morning after declaring &quot;I&#x27;m not a racist,&quot; Trump began his [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.denverpost.com/2018/01/16/18-state-attorneys-general-back-colo-rep-ed-perlmutters-marijuana-banking-bill/"><b>18 state attorneys general back Colo. Rep. Ed Perlmutter&#x27;s marijuana banking bill</b></a></h5>
+        <p class="source"><a href="http://feeds.denverpost.com/dp-politics-national_politics">The Denver Post</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 20:35:47 +0000</p>
+        <p class="summary">The recent rescission of prior Obama-era guidance from the U.S. Treasury Department&amp;#8217;s Financial Crimes Enforcement Network (FinCEN) for banks doing business with marijuana firms has made the need for Congressional action more urgent, the attorneys general said.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/15074/production/_99523168_28e0cad5-d99d-41e8-bdda-c01ae054aec6.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42647971"><b>Benefits decisions</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 00:58:54 GMT</p>
+        <p class="summary">What are the key issues she will need to address?</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/01/17/60/60/694940094001_5713183215001_5713168060001-vs.jpg" width="60"/>
+        <h5 class="title"><a href="http://feeds.foxnews.com/~r/foxnews/politics/~3/fiG9F90B6YY/mueller-issues-steve-bannon-subpoena-in-special-counsel-russia-probe.html"><b>Mueller issues Steve Bannon subpoena in special counsel Russia probe</b></a></h5>
+        <p class="source"><a href="http://feeds.foxnews.com/foxnews/politics">Fox News</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:00:00 GMT</p>
+        <p class="summary">Fired White House chief strategist and ex-Trump campaign manager Steve Bannon has been subpoenaed by special counsel Robert Mueller, Fox News has confirmed.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/24AF/production/_99619390_de39.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42708212"><b>Does MP Sir Desmond Swayne nod off in Ken Clarke&#x27;s speech?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 14:44:02 GMT</p>
+        <p class="summary">Sir Desmond Swayne seems very relaxed during his colleague&#x27;s speech on the EU Withdrawal Bill.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.theguardian.com/us-news/2018/jan/13/democratic-donor-tom-steyer-millions-the-resistance-now"><b>The Resistance Now: Democratic donor to spend millions in youth vote drive</b></a></h5>
+        <p class="source"><a href="https://www.theguardian.com/us-news/us-politics/rss">The Guardian</a></p>
+        <p class="timestamp">Sat, 13 Jan 2018 14:00:03 GMT</p>
+        <p class="summary">Tom Steyer confirms $30m donation to help young people vote; activists celebrate Trump&#x27;s London cancellation; and other resistance news this weekThe Resistance Now on FacebookThe billionaire Democratic donor Tom Steyer has announced he&#x27;s pumping $30m into getting out the youth vote in the 2018 midterm elections. </p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://www.washingtonpost.com/blogs/post-politics/wp/2018/01/08/mitt-romney-was-treated-successfully-for-prostate-cancer/"><b>Mitt Romney was &#x27;treated successfully&#x27; for prostate cancer</b></a></h5>
+        <p class="source"><a href="http://feeds.washingtonpost.com/rss/rss_election-2012">The Washington Post</a></p>
+        <p class="timestamp">Mon, 08 Jan 2018 19:51:59 +0000</p>
+        <p class="summary">
+	
+	
+	Mitt Romney, the 2012 Republican presidential nominee who is preparing for a possible Senate campaign in Utah, was treated for prostate cancer last summer, two people close to Romney said Monday. &quot;Last year, Governor Mitt Romney was diagnosed with slow-growing prostate cancer,&quot; a Romney aide said in a statement. &quot;The cancer was removed surgically and found not [&amp;#8230;]</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.nytimes.com/2018/01/16/us/politics/trump-health-exam-doctor-cognitive-test.html?partner=rss&emc=rss"><b>Doctor Declares Trump&#x27;s Health Excellent, With Perfect Score on Cognitive Test</b></a></h5>
+        <p class="source"><a href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml">New York Times</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 00:41:39 GMT</p>
+        <p class="summary">President Trump received his annual physical on Friday.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/1748A/production/_99207359_6ec2de60-c2c6-48b4-a515-73bca2f52e53.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-42708507"><b>Minister for loneliness appointed to continue Jo Cox&#x27;s work</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 23:02:40 GMT</p>
+        <p class="summary">The government creates a new ministerial role, which continues the work of the late MP Jo Cox.</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="https://www.npr.org/2018/01/16/578227374/8-congressional-chairmen-are-calling-it-quits-heres-why-and-what-it-could-mean?utm_medium=RSS&utm_campaign=politics"><b>8 Congressional Chairmen Are Calling It Quits. Here&#x27;s Why And What It Could Mean</b></a></h5>
+        <p class="source"><a href="https://www.npr.org/rss/rss.php?id=1014">NPR</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 13:07:46 -0500</p>
+        <p class="summary">In past generations, committee chairs were masters of the agenda, ruling based on their seniority and longevity. They kept their grip on the gavels until they, or the Almighty, decided otherwise.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/17927/production/_89715569_d70bbebc-774f-4e25-bd98-24bcb79e81a7.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-wales-politics-42694584"><b>UKIP AM Michelle Brown faces committee over racial slur</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:18:16 GMT</p>
+        <p class="summary">Michelle Brown is questioned over a racial slur she used to describe a Labour MP.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/B299/production/_99612754_mediaitem99612753.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/world-europe-42701702"><b>France will not allow another &#x27;Jungle&#x27; camp in Calais, says Macron</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 17:13:33 GMT</p>
+        <p class="summary">France&#x27;s president vows to prevent another camp as hundreds of migrants continue to gather in Calais.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/13612/production/_99587397_reuterssign.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-42684261"><b>Warning system?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Sun, 14 Jan 2018 22:25:50 GMT</p>
+        <p class="summary">What plans are there for alerting the British public in the unlikely event of an attack?</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/1771/production/_99610060_mediaitem99610059.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-42698981"><b>£350m Brexit claim was &#x27;too low&#x27;, says Boris Johnson</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 12:41:09 GMT</p>
+        <p class="summary">Boris Johnson says the much disputed sum - promised to the NHS - was &quot;grossly underestimated&quot;.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-5825dc99/turbine/la-me-newport-beach-trump-20161109/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-newport-beach-trump-20161109-story.html"><b>Newport Beach voters on their reluctant Trump support: &#x27;I plugged my nose and voted for him&#x27;</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Thu, 10 Nov 2016 04:00:00 PST</p>
+        <p class="summary">Bathed in the glow of election results broadcast on three large screens, a crowd of Orange County Republican voters got to their feet Tuesday night and shrieked. They pumped their fists; they slapped each other&#x27;s backs; they debated whether Hillary Clinton was sobbing or screaming at her stunning...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/2E09/production/_91558711_shepherds-bush-tower-fire1.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/business-42691666"><b>Product safety flaws &#x27;exposed by Whirlpool danger dryers&#x27;</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 08:45:16 GMT</p>
+        <p class="summary">More than a million fire-risk dryers are still being used in UK homes, a committee of MPs says.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-59064980/turbine/la-me-ln-elizabeth-warren-speaks-20170428/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-elizabeth-warren-speaks-20170428-story.html"><b>&#x27;We are being tested,&#x27; Sen. Elizabeth Warren tells crowd in Glendale</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Sat, 29 Apr 2017 18:00:00 PDT</p>
+        <p class="summary">Sen. Elizabeth Warren (D-Mass.) played the role of therapist, sports coach and motivational speaker Saturday during a talk to a loud and friendly crowd in Glendale during her national book tour. The populist former Harvard law professor gave what amounted to an extended pep talk and lecture, encouraging...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://www.trbimg.com/img-56f942eb/turbine/la-me-ln-bullet-train-doubts-20160328/600" width="300"/>
+        <h5 class="title"><a href="http://www.latimes.com/local/political/la-me-ln-bullet-train-doubts-20160328-story.html"><b>Doubts about bullet train rising in Southern California</b></a></h5>
+        <p class="source"><a href="http://www.latimes.com/local/political/rss2.0.xml">Los Angeles Times</a></p>
+        <p class="timestamp">Mon, 28 Mar 2016 07:54:00 PDT</p>
+        <p class="summary">The California rail authority&#x27;s failure to identify a source of funding to connect Los Angeles to the future bullet train system is not acceptable, said Hasan Ikhrata, executive director of the Southern California Assn. of Governments. Until the high-speed rail authority released a new draft business...</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/1F05/production/_99614970_aeroplanegetty.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/business-42702752"><b>UK inflation rate drops back to 3%</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 11:30:57 GMT</p>
+        <p class="summary">The rate fell from November&#x27;s six-year high of 3.1% mainly because of the impact of air fares.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/16DB/production/_99615850_mediaitem99615849.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-42704691"><b>Terror trial: Big Ben among terror targets, court hears</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 15:39:20 GMT</p>
+        <p class="summary">A British man who was &quot;fascinated&quot; by so-called Islamic State targeted UK landmarks, court hears.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/CF86/production/_99562135_mediaitem99562134.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42651525"><b>Farage&#x27;s about turn?</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Thu, 11 Jan 2018 17:55:52 GMT</p>
+        <p class="summary">Nigel Farage suggested he was coming round to the idea of a second EU referendum - what is going on?</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/15FCF/production/_99536009_hamper-2.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42633478"><b>Tempting treats</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Wed, 10 Jan 2018 17:09:27 GMT</p>
+        <p class="summary">Brexiteers present Michel Barnier with cheese, gin and the complete works of Shakespeare.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/180AF/production/_98297489_mediaitem98297488.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-41332364"><b>Party conferences 2017</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Tue, 24 Oct 2017 16:16:23 GMT</p>
+        <p class="summary">The latest on the major political parties in the autumn conference season.</p>
+      </div>
+      <div class="newsitem">
+        <img class="thumbnail" src="http://c.files.bbci.co.uk/4F37/production/_99597202_p05tx96s.jpg" width="300"/>
+        <h5 class="title"><a href="http://www.bbc.co.uk/news/uk-politics-42688037"><b>Bolton: Views not Marney&#x27;s &#x27;core beliefs&#x27;</b></a></h5>
+        <p class="source"><a href="http://feeds.bbci.co.uk/news/politics/rss.xml">BBC</a></p>
+        <p class="timestamp">Mon, 15 Jan 2018 08:25:22 GMT</p>
+        <p class="summary">Leader of UKIP says Jo Marney views not in line with her &#x27;core beliefs&#x27;</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zGsB5hSYUQU/index.html"><b>Ex-Navy commanders face negligent homicide charges over deadly collisions</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Wed, 17 Jan 2018 02:24:18 GMT</p>
+        <p class="summary">The US Navy announced Tuesday that the former commanding officers of the USS Fitzgerald and USS John S. McCain -- the ships involved in two deadly 2017 collisions that killed 17 sailors -- will face criminal charges including dereliction of duty, hazarding a vessel and negligent homicide.
+    
+</p>
+      </div>
+      <div class="newsitem">
+
+        <h5 class="title"><a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X0GlNdf23i8/index.html"><b>NYT: Mueller subpoenas Bannon</b></a></h5>
+        <p class="source"><a href="http://rss.cnn.com/rss/cnn_allpolitics.rss">CNN</a></p>
+        <p class="timestamp">Tue, 16 Jan 2018 22:00:27 GMT</p>
+        <p class="summary">Special counsel Robert Mueller subpoenaed former White House chief strategist Steve Bannon last week, The New York Times reported Tuesday.
+    
+</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

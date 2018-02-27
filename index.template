@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--meta http-equiv="refresh" content="10; URL=index.html"-->
+
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css/materialize.min.css" rel="stylesheet" type="text/css">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <!-- Admin Console main section -->
+  <div class="main">
+    <div class="main-top"></div>
+    <div class="main-left">
+      <ul class="nav nav-tabs category-list">
+        <li><b>Categories</b></li>
+%CATEGORY_LIST%
+      </ul>
+      <div class="filter">
+          <b>Filter:</b><input type="text" id="filter-inputbox" value="">
+          <button id="filter-submit" onclick="doFilter()">Submit</button>
+      </div>
+      <div class="link">
+        <ul>
+          <li><b>Links</b></li>
+          <li><a href="https://www.bloomberg.com/markets" target="_blank">Bloomberg Markets</a></li>
+          <li><a href="https://www.economist.com" target="_blank">The Economist</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="main-right tab-content">
+%NEWS_TABS%
+  </div>
+
+<script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
