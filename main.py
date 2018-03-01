@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*
 # https://simonsarris.com/making-html5-canvas-useful/
 # https://en.wikipedia.org/wiki/List_of_newspapers_in_the_United_States
 # http://michelleful.github.io/code-blog/2015/09/10/parsing-chinese-with-stanford/
@@ -165,39 +166,10 @@ def LoadConfig():
                 blacklist.add(line)
 
     env['newsGroups'] = newsGroups
-    env['blacklist'] = blacklist           
+    env['blacklist'] = blacklist
 
-    # Legacy.
-    '''
-    env['newsGroups']['politics'] = [
-        NewsSource('BBC', 'http://feeds.bbci.co.uk/news/politics/rss.xml', 'BBC_politics.html'),
-        NewsSource('NPR', 'https://www.npr.org/rss/rss.php?id=1014', 'NPR_politics.html'),
-        NewsSource('New York Times', 'http://www.nytimes.com/services/xml/rss/nyt/Politics.xml', 'NYT_politics.html'),
-        NewsSource('Fox News', 'http://feeds.foxnews.com/foxnews/politics', 'FN_politics.html'),
-        NewsSource('The Guardian', 'https://www.theguardian.com/us-news/us-politics/rss', 'TG_politics.html', lambda x: re.sub('– video', '', x), lambda x: re.sub('Continue reading\.\.\.|Related: .*$', '', x)),
-        NewsSource('CNN', 'http://rss.cnn.com/rss/cnn_allpolitics.rss', 'CNN_politics.html'),
-        NewsSource('Los Angeles Times', 'http://www.latimes.com/local/political/rss2.0.xml', 'LAT_politics.html'),
-        NewsSource('The Washington Post', 'http://feeds.washingtonpost.com/rss/rss_election-2012', 'TWP_politics.html'),
-        NewsSource('The Denver Post', 'http://feeds.denverpost.com/dp-politics-national_politics', 'TDP_politics.html'),
-    ]
-    env['newsGroups']['business'] = [
-        NewsSource('The Wall Street Journal', 'http://www.wsj.com/xml/rss/3_7031.xml', 'TWSJ_business.html'),
-        NewsSource('BBC', 'http://feeds.bbci.co.uk/news/business/rss.xml', 'BBC_business.html'),
-        NewsSource('CNN', 'http://rss.cnn.com/rss/money_latest.rss', 'CNN_business.html'),
-        NewsSource('The New York Times', 'http://rss.nytimes.com/services/xml/rss/nyt/Economy.xml', 'TNYT_business.html'),
-        NewsSource('USA Today', 'http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories', 'USAT_business.html'),
-        NewsSource('Los Angeles Times', 'http://www.latimes.com/business/rss2.0.xml', 'LAT_business.html'),
-        NewsSource('New York Times', 'https://nypost.com/business/feed/', 'NYT_business.html'),
-    ]
-    env['newsGroups']['technology'] = [
-        NewsSource('BBC Technology', 'http://feeds.bbci.co.uk/news/technology/rss.xml', 'BBC_technology.html'),
-        NewsSource('CNN Technology', 'http://rss.cnn.com/rss/cnn_tech.rss', 'CNN_technology.html'),
-        NewsSource('New York Times Technology', 'http://feeds.nytimes.com/nyt/rss/Technology',  'NYT_technology.html'),
-        NewsSource('NPR Technology', 'https://www.npr.org/rss/rss.php?id=1019', 'NPR_technology.html'),
-    ]
-
-    env['blacklist'] = set(['president', 'president trump', 'trump', 'donald trump', 'president donald trump'])
-    '''
+    if not os.path.isdir(env['cacheDir']):
+        os.makedirs(env['cacheDir'])
 
 # Get news items from each source in a news group.
 def DownloadNewsGroup(newsGroupName):
