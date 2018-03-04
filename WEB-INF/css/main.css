@@ -22,9 +22,11 @@
   float: left;
   width: 10%;
   position: fixed;
+  overflow: scroll;
 }
 
 .category-list {
+  display: block;
 }
 
 .filter {
@@ -38,7 +40,7 @@
 /* Main Right */
 .main-right {
   float: left;
-  width: 87%;
+  width: 83%;
   right: 15px;
   margin-left: 10px;
   border-left: solid #E8E8E8;
