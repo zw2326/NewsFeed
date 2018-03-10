@@ -53,8 +53,8 @@ class NewsItem(object):
             self.summary = source.summaryRe(self.summary)
 
         # Extract keywords from title and summary.
-        self.kwt = [x[0] for x in raker.run(self.title)]
-        self.kws = [x[0] for x in raker.run(self.summary)]
+        self.kwt = [x[0] for x in raker.run(self.title)][:3]
+        self.kws = [x[0] for x in raker.run(self.summary)][:3]
         self.keywords = set(self.kwt + self.kws) - env['blacklist']
 
         self.keywordsOrig = set([])
@@ -133,7 +133,7 @@ def LoadConfig():
     if os.path.isfile(configFile):
         section = None
         newsGroup = None
-        fid = open(configFile, 'r')
+        fid = open(configFile, 'r', encoding='utf-8')
         for line in fid:
             line = line.strip()
             if line == '' or line.startswith('#'): # Blank or comment.
