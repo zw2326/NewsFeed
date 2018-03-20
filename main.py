@@ -14,6 +14,7 @@ import html
 import inspect
 import math
 import networkx
+import nltk
 import os
 import pytz
 import re
@@ -52,22 +53,30 @@ class NewsItem(object):
         if source.summaryRe is not None:
             self.summary = source.summaryRe(self.summary)
 
-        # Extract keywords from title and summary.
+        # Extract keywords using named entity extraction.
+        self.kwt = NamedEntityExtraction(self.title)
+        self.kws = NamedEntityExtraction(self.summary)
+        self.keywords = self.kwt | self.kws - env['blacklist']
+        self.keywordsOrig = self.keywords
+
+        '''
+        # Extractk keywords using RAKE (not suited for short text).
         self.kwt = [x[0] for x in raker.run(self.title)][:3]
         self.kws = [x[0] for x in raker.run(self.summary)][:3]
         self.keywords = set(self.kwt + self.kws) - env['blacklist']
 
         self.keywordsOrig = set([])
         for keyword in self.keywords:
-            titleMatchIndex = self.title.lower().find(keyword)
+            titleMatchIndex = self.title.find(keyword)
             if titleMatchIndex != -1:
                 self.keywordsOrig.add(self.title[titleMatchIndex:(titleMatchIndex + len(keyword))])
                 continue
-            summaryMatchIndex = self.summary.lower().find(keyword)
+            summaryMatchIndex = self.summary.find(keyword)
             if summaryMatchIndex != -1:
                 self.keywordsOrig.add(self.summary[summaryMatchIndex:(summaryMatchIndex + len(keyword))])
                 continue
-            Error('Cannot locate original keyword "{0}" in title or summary'.format(keyword))
+            Error('Cannot locate original keyword "{0}" in title or summary.\nTitle: {1}\nSummary: {2}'.format(keyword, self.title, self.summary))
+        '''
 
         # DEBUG
         # open('inspect.txt', 'a', encoding='utf-8').write('{0}\n{1}\n{2}\n==========\n{3}\n++++++++++\n{4}\n{5}\n==========\n\n'.format(self.source.name, self.title, self.summary, list(self.keywords), self.kwt, self.kws))
@@ -319,6 +328,28 @@ def GenHtml(newsItems):
 
     res = res.replace('%NEWS_TABS%', '\n'.join(newsTabStrs))
     open(env['outputFile'], 'w', encoding='utf-8').write(res)
+
+# Named Entity Extraction
+def NamedEntityExtraction(text):
+    sentences = nltk.sent_tokenize(text)
+    tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
+    tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
+    chunked_sentences = nltk.ne_chunk_sents(tagged_sentences, binary=True)
+
+    entity_names = []
+    for tree in chunked_sentences:
+        entity_names.extend(ExtractEntityNames(tree))
+    return set(entity_names)
+
+def ExtractEntityNames(t):
+    ret = []
+    if hasattr(t, 'label') and t.label:
+        if t.label() == 'NE':
+            ret.append(' '.join([child[0] for child in t]))
+        else:
+            for child in t:
+                ret.extend(ExtractEntityNames(child))
+    return ret
 
 def TextRank(n, edges):
     # Build graph.
