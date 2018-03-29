@@ -24,6 +24,11 @@ import re
 # Subscribe to sports news group.
 # Output config: HTML, JSON, SQL...
 
+# Try other keyword extraction methods.
+# Refactor to classes.
+# Fix UI bug (control panel not full size in bigger screen).
+# Fix bug where Trump cannot be filtered even if in black list.
+
 env = {}
 
 # For RAKE.
